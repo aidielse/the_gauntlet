@@ -6,14 +6,14 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 ## Baby
 
-* [TW CTF 2016] greeting
-* [DEFCON CTF 2016] xkcd
-* __\[SOLVED\]__[DEFCON CTF 2015] r0pbaby
-* [DEFCON CTF 2015] babyecho
-* [CSAW CTF 2014] greenhornd
-* [CSAW CTF 2013] exploit2
-* [CSAW CTF 2013] csawdiary
-* [CSAW CTF 2013] miteegashun
+* \[TW CTF 2016\] [greeting](https://github.com/aidielse/pwning/tree/master/Baby/greeting)
+* \[DEFCON CTF 2016\] [xkcd](https://github.com/aidielse/pwning/tree/master/Baby/xkcd)
+* __\[SOLVED\]__\[DEFCON CTF 2015\] [r0pbaby](https://github.com/aidielse/pwning/tree/master/Baby/r0pbaby)
+* \[DEFCON CTF 2015\] [babyecho](https://github.com/aidielse/pwning/tree/master/Baby/babyecho)
+* \[CSAW CTF 2014\] [greenhornd](https://github.com/aidielse/pwning/tree/master/Baby/greenhornd)
+* \[CSAW CTF 2013\] [exploit2](https://github.com/aidielse/pwning/tree/master/Baby/exploit2)
+* \[CSAW CTF 2013\] [csawdiary](https://github.com/aidielse/pwning/tree/master/Baby/csawdiary)
+* \[CSAW CTF 2013\] [miteegashun](https://github.com/aidielse/pwning/tree/master/Baby/miteegashun)
  
 ## Easy
  
