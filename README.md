@@ -40,22 +40,24 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | CodeGate 2014         | [angry doraemon](https://github.com/aidielse/pwning/tree/master/Easy/angry_doraemon)                          | UNSOLVED      |
  
 ## Difficulty: Medium-Easy
- 
-* __\[SOLVED\]__\[HITCON CTF 2016] [babyheap](https://github.com/aidielse/pwning/tree/master/Medium-Easy/babyheap)
-* \[TWMMA CTF 2016\] [diary](https://github.com/aidielse/pwning/tree/master/Medium-Easy/diary)
-* \[TWMMA CTF 2016\] [shadow](https://github.com/aidielse/pwning/tree/master/Medium-Easy/shadow)
-* __\[SOLVED\]__\[DEFCON CTF 2016\] [pillpusher](https://github.com/aidielse/pwning/tree/master/Medium-Easy/pillpusher)
-* \[DEFCON CTF 2016\] [crunchtime](https://github.com/aidielse/pwning/tree/master/Medium-Easy/crunchtime)
-* \[MMA CTF 1st 2015\] [spell](https://github.com/aidielse/pwning/tree/master/Medium-Easy/spell)
-* \[BkP CTF 2015\] [jfk-umass](https://github.com/aidielse/pwning/tree/master/Medium-Easy/jfk-umass)
-* \[31c3 CTF 2014\] [mynx](https://github.com/aidielse/pwning/tree/master/Medium-Easy/mynx)
-* \[31c3 CTF 2014\] [maze](https://github.com/aidielse/pwning/tree/master/Medium-Easy/maze)
-* __\[SOLVED\]__\[Pwnable.kr\] unexploitable
-* \[hack.lu2014\] [holy-moses](https://github.com/aidielse/pwning/tree/master/Medium-Easy/holy-moses)
-* \[hack.lu2014\] [the-union](https://github.com/aidielse/pwning/tree/master/Medium-Easy/the-union)
-* \[PlaidCTF 2014\] [kappa](https://github.com/aidielse/pwning/tree/master/Medium-Easy/kappa)
-* \[Gits CTF 2014\] [ti-1337](https://github.com/aidielse/pwning/tree/master/Medium-Easy/ti-1337)
-* \[Gits CTF 2014\] [fuzzy](https://github.com/aidielse/pwning/tree/master/Medium-Easy/fuzzy)
+
+| CTF                   | Challenge                                                                             | Solved?       |
+|:---------------------:|:-------------------------------------------------------------------------------------:|:-------------:|
+| HITCON 2016           | [babyheap](https://github.com/aidielse/pwning/tree/master/Medium-Easy/babyheap)       | __SOLVED__    |
+| TOKYO WESTERNS 2016   | [diary](https://github.com/aidielse/pwning/tree/master/Medium-Easy/diary)             | UNSOLVED      |
+| TOKYO WESTERNS 2016   | [shadow](https://github.com/aidielse/pwning/tree/master/Medium-Easy/shadow)           | UNSOLVED      |
+| DEFCON QUALS 2016     | [pillpusher](https://github.com/aidielse/pwning/tree/master/Medium-Easy/pillpusher)   | __SOLVED__    |
+| DEFCON QUALS 2016     | [crunchtime](https://github.com/aidielse/pwning/tree/master/Medium-Easy/crunchtime)   | UNSOLVED      |
+| MMA 2015              | [spell](https://github.com/aidielse/pwning/tree/master/Medium-Easy/spell)             | UNSOLVED      |
+| BKP 2015              | [jfk-umass](https://github.com/aidielse/pwning/tree/master/Medium-Easy/jfk-umass)     | UNSOLVED      |
+| 31c3 2014             | [mynx](https://github.com/aidielse/pwning/tree/master/Medium-Easy/mynx)               | UNSOLVED      |
+| 31c3 2014             | [maze](https://github.com/aidielse/pwning/tree/master/Medium-Easy/maze)               | UNSOLVED      |
+| Pwnable.kr            | unexploitable                                                                         | __SOLVED__    |
+| hack.lu 2014          | [holy-moses](https://github.com/aidielse/pwning/tree/master/Medium-Easy/holy-moses)   | UNSOLVED      |
+| hack.lu 2014          | [the-union](https://github.com/aidielse/pwning/tree/master/Medium-Easy/the-union)     | UNSOLVED      |
+| PlaidCTF 2014         | [kappa](https://github.com/aidielse/pwning/tree/master/Medium-Easy/kappa)             | UNSOLVED      |
+| GITS 2014             | [ti-1337](https://github.com/aidielse/pwning/tree/master/Medium-Easy/ti-1337)         | UNSOLVED      |
+| GITS 2014             | [fuzzy](https://github.com/aidielse/pwning/tree/master/Medium-Easy/fuzzy)             | UNSOLVED      |
 
 ## Difficulty: Medium
  
