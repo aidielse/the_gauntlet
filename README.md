@@ -6,36 +6,38 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 ## Difficulty: Baby
 
-| CTF                 | Challenge    | Solved? |
-|:-------------------:|:------------:|:-------:|
-| TOKYO WESTERNS 2016 | [greeting](https://github.com/aidielse/pwning/tree/master/Baby/greeting) | UNSOLVED |
-| DEFCON QUALS 2016   | [xkcd](https://github.com/aidielse/pwning/tree/master/Baby/xkcd) | UNSOLVED |
-| DEFCON QUALS 2015   | [r0pbaby](https://github.com/aidielse/pwning/tree/master/Baby/r0pbaby) | __SOLVED__ |
-| DEFCON QUALS 2015   | [babyecho](https://github.com/aidielse/pwning/tree/master/Baby/babyecho) | UNSOLVED |
-| CSAW 2014           | [greenhornd](https://github.com/aidielse/pwning/tree/master/Baby/greenhornd) | UNSOLVED |
-| CSAW 2013           | [exploit2](https://github.com/aidielse/pwning/tree/master/Baby/exploit2) | UNSOLVED |
-| CSAW 2013           | [csawdiary](https://github.com/aidielse/pwning/tree/master/Baby/csawdiary) | UNSOLVED |
-| CSAW 2013           | [miteegashun](https://github.com/aidielse/pwning/tree/master/Baby/miteegashun) | UNSOLVED |
+| CTF                   | Challenge                                                                         | Solved?       |
+|:---------------------:|:---------------------------------------------------------------------------------:|:-------------:|
+| TOKYO WESTERNS 2016   | [greeting](https://github.com/aidielse/pwning/tree/master/Baby/greeting)          | UNSOLVED      |
+| DEFCON QUALS 2016     | [xkcd](https://github.com/aidielse/pwning/tree/master/Baby/xkcd)                  | UNSOLVED      |
+| DEFCON QUALS 2015     | [r0pbaby](https://github.com/aidielse/pwning/tree/master/Baby/r0pbaby)            | __SOLVED__    |
+| DEFCON QUALS 2015     | [babyecho](https://github.com/aidielse/pwning/tree/master/Baby/babyecho)          | UNSOLVED      |
+| CSAW 2014             | [greenhornd](https://github.com/aidielse/pwning/tree/master/Baby/greenhornd)      | UNSOLVED      |
+| CSAW 2013             | [exploit2](https://github.com/aidielse/pwning/tree/master/Baby/exploit2)          | UNSOLVED      |
+| CSAW 2013             | [csawdiary](https://github.com/aidielse/pwning/tree/master/Baby/csawdiary)        | UNSOLVED      |
+| CSAW 2013             | [miteegashun](https://github.com/aidielse/pwning/tree/master/Baby/miteegashun)    | UNSOLVED      |
  
 ## Difficulty: Easy
- 
-* \[HITCON CTF 2016\] [shellingfolder](https://github.com/aidielse/pwning/tree/master/Easy/shellingfolder)
-* \[TWMMA CTF 2016\] [interpreter](https://github.com/aidielse/pwning/tree/master/Easy/interpreter)
-* \[DEFCON CTF 2016\] [banker](https://github.com/aidielse/pwning/tree/master/Easy/banker)
-* \[DEFCON CTF 2016\] [heapfun4u](https://github.com/aidielse/pwning/tree/master/Easy/heapfun4u)
-* \[DEFCON CTF 2016\] [feedme](https://github.com/aidielse/pwning/tree/master/Easy/feedme)
-* \[CodeGate 2016\] [oldschool](https://github.com/aidielse/pwning/tree/master/Easy/oldschool)
-* \[CodeGate 2016\] [flOppy](https://github.com/aidielse/pwning/tree/master/Easy/fl0ppy)
-* \[CodeGate 2016\] [serial](https://github.com/aidielse/pwning/tree/master/Easy/serial)
-* \[BkP CTF 2016\] [simplecalc](https://github.com/aidielse/pwning/tree/master/Easy/simplecalc)
-* \[BkP CTF 2016\] [complexcalc](https://github.com/aidielse/pwning/tree/master/Easy/complexcalc) 
-* \[32c3 CTF 2015\] [readme](https://github.com/aidielse/pwning/tree/master/Easy/readme)
-* \[DEFCON CTF 2015\] [wibbly wobbly timey wimey](https://github.com/aidielse/pwning/tree/master/Easy/wibbly_wobbly_timey_wimey)
-* \[31c3 CTF 2014\] [cfy](https://github.com/aidielse/pwning/tree/master/Easy/cfy)
-* __\[SOLVED\]__\[DEFCON CTF 2014\] [babysfirstheap](https://github.com/aidielse/pwning/tree/master/Easy/babysfirstheap)
-* \[PlaidCTF 2014\] [ezhp](https://github.com/aidielse/pwning/tree/master/Easy/ezhp)
-* \[PlaidCTF 2014\] [sass](https://github.com/aidielse/pwning/tree/master/Easy/sass)
-* \[CodeGate-2014\] [angry doraemon](https://github.com/aidielse/pwning/tree/master/Easy/angry_doraemon)
+
+| CTF                   | Challenge                                                                                                     | Solved?       |
+|:---------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------:|
+| HITCON  2016          | [shellingfolder](https://github.com/aidielse/pwning/tree/master/Easy/shellingfolder)                          | UNSOLVED      |
+| TOKYO WESTERNS 2016   | [interpreter](https://github.com/aidielse/pwning/tree/master/Easy/interpreter)                                | UNSOLVED      |
+| DEFCON QUALS 2016     | [banker](https://github.com/aidielse/pwning/tree/master/Easy/banker)                                          | UNSOLVED      |
+| DEFCON QUALS 2016     | [heapfun4u](https://github.com/aidielse/pwning/tree/master/Easy/heapfun4u)                                    | UNSOLVED      |
+| DEFCON QUALS 2016     | [feedme](https://github.com/aidielse/pwning/tree/master/Easy/feedme)                                          | UNSOLVED      |
+| CodeGate 2016         | [oldschool](https://github.com/aidielse/pwning/tree/master/Easy/oldschool)                                    | UNSOLVED      |
+| CodeGate 2016         | [flOppy](https://github.com/aidielse/pwning/tree/master/Easy/fl0ppy)                                          | UNSOLVED      |
+| CodeGate 2016         | [serial](https://github.com/aidielse/pwning/tree/master/Easy/serial)                                          | UNSOLVED      |
+| BkP 2016              | [simplecalc](https://github.com/aidielse/pwning/tree/master/Easy/simplecalc)                                  | UNSOLVED      |
+| BkP 2016              | [complexcalc](https://github.com/aidielse/pwning/tree/master/Easy/complexcalc)                                | UNSOLVED      |
+| 32c3 2015             | [readme](https://github.com/aidielse/pwning/tree/master/Easy/readme)                                          | UNSOLVED      |
+| DEFCON QUALS 2015     | [wibbly wobbly timey wimey](https://github.com/aidielse/pwning/tree/master/Easy/wibbly_wobbly_timey_wimey)    | UNSOLVED      |
+| 31c3 2014             | [cfy](https://github.com/aidielse/pwning/tree/master/Easy/cfy)                                                | UNSOLVED      |
+| DEFCON QUALS 2014     | [babysfirstheap](https://github.com/aidielse/pwning/tree/master/Easy/babysfirstheap)                          | __SOLVED__    |
+| PlaidCTF 2014         | [ezhp](https://github.com/aidielse/pwning/tree/master/Easy/ezhp)                                              | UNSOLVED      |
+| PlaidCTF 2014         | [sass](https://github.com/aidielse/pwning/tree/master/Easy/sass)                                              | UNSOLVED      |
+| CodeGate 2014         | [angry doraemon](https://github.com/aidielse/pwning/tree/master/Easy/angry_doraemon)                          | UNSOLVED      |
  
 ## Difficulty: Medium-Easy
  
