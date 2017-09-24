@@ -6,17 +6,17 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 ## Difficulty: Gotta Start Somewhere
 
-| CTF                   | Challenge                                                                                         | Solved?       |
-|:----------------------|:--------------------------------------------------------------------------------------------------|:--------------|
-| TOKYO WESTERNS 2016   | [greeting](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/greeting)         | UNSOLVED      |
-| DEFCON 2016           | [xkcd](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/xkcd)                 | UNSOLVED      |
-| DEFCON 2015           | [r0pbaby](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/r0pbaby)           | __SOLVED__    |
-| DEFCON 2015           | [babyecho](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/babyecho)         | UNSOLVED      |
-| CSAW 2014             | [greenhornd](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/greenhornd)     | UNSOLVED      |
-| CSAW 2013             | [exploit2](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/exploit2)         | UNSOLVED      |
-| CSAW 2013             | [csawdiary](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/csawdiary)       | UNSOLVED      |
-| CSAW 2013             | [miteegashun](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/miteegashun)   | UNSOLVED      |
- 
+| CTF                   | Challenge                                                                                                 | Solved?       |
+|:----------------------|:----------------------------------------------------------------------------------------------------------|:--------------|
+| TOKYO WESTERNS 2016   | [greeting](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/greeting)                 | UNSOLVED      |
+| DEFCON 2016           | [xkcd](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/xkcd)                         | UNSOLVED      |
+| DEFCON 2015           | [r0pbaby](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/r0pbaby)                   | __SOLVED__    |
+| DEFCON 2015           | [babyecho](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/babyecho)                 | UNSOLVED      |
+| CSAW 2014             | [greenhornd](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/greenhornd)             | UNSOLVED      |
+| CSAW 2013             | [exploit2](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/exploit2)                 | UNSOLVED      |
+| CSAW 2013             | [csawdiary](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/csawdiary)               | UNSOLVED      |
+| CSAW 2013             | [miteegashun](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/miteegashun)           | UNSOLVED      |
+| PlaidCTF 2013         | [ropasaurusrex](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex) | UNSOLVED      | 
 ## Difficulty: Easy
 
 | CTF                   | Challenge                                                                                                     | Solved?       |
