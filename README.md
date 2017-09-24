@@ -104,21 +104,21 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 ## Hard
  
-* [0CTF 2017] KNOTE
-* [HITCON CTF 2016] House of Orange
-* [PlaidCTF 2016] awkward
-* [HITCON CTF 2015] deathweed
-* [PlaidCTF 2015] PlaidDB
-* [PlaidCTF 2015] tp
-* [CodeGate 2015] weff
-* [Gits CTF 2015] gitschat
-* [31c3 CTF 2014] cfy2
-* [31c3 CTF 2014] saas
-* [hack.lu2014] oreo
-* [hack.lu2014] breakout
-* [hack.lu2014] mario 
-* [HITCON CTF 2014] stkof
-* __\[SOLVED\]__[Pwnable.kr] towelroot
-* [DEFCON CTF 2014] dosfun4u
-* [CodeGate-2014] membership
-* [Gits CTF 2014] Byte Sexual
+* \[0CTF 2017\] [knote](https://github.com/aidielse/pwning/tree/master/Hard/knote)
+* \[HITCON CTF 2016\] [house\_of\_orange](https://github.com/aidielse/pwning/tree/master/Hard/house_of_orange)
+* \[PlaidCTF 2016\] [awkward](https://github.com/aidielse/pwning/tree/master/Hard/awkward)
+* \[HITCON CTF 2015\] [deathweed](https://github.com/aidielse/pwning/tree/master/Hard/deathweed)
+* \[PlaidCTF 2015\] [plaiddb](https://github.com/aidielse/pwning/tree/master/Hard/plaiddb)
+* \[PlaidCTF 2015\] [tp](https://github.com/aidielse/pwning/tree/master/Hard/tp)
+* \[CodeGate 2015\] [weff](https://github.com/aidielse/pwning/tree/master/Hard/weff)
+* \[Gits CTF 2015\] [gitschat](https://github.com/aidielse/pwning/tree/master/Hard/gitschat)
+* \[31c3 CTF 2014\] [cfy2](https://github.com/aidielse/pwning/tree/master/Hard/cfy2)
+* \[31c3 CTF 2014\] [saas](https://github.com/aidielse/pwning/tree/master/Hard/saas)
+* \[hack.lu2014\] [oreo](https://github.com/aidielse/pwning/tree/master/Hard/oreo)
+* \[hack.lu2014\] [breakout](https://github.com/aidielse/pwning/tree/master/Hard/breakout)
+* \[hack.lu2014\] [mario](https://github.com/aidielse/pwning/tree/master/Hard/mario)
+* \[HITCON CTF 2014\] [stkof](https://github.com/aidielse/pwning/tree/master/Hard/stkof)
+* __\[SOLVED\]__\[Pwnable.kr\] towelroot
+* \[DEFCON CTF 2014\] [dosfun4u](https://github.com/aidielse/pwning/tree/master/Hard/dosfun4u)
+* \[CodeGate-2014\] [membership](https://github.com/aidielse/pwning/tree/master/Hard/membership)
+* \[Gits CTF 2014\] [byte\_sexual](https://github.com/aidielse/pwning/tree/master/Hard/byte_sexual)
