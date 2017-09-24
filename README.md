@@ -66,6 +66,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 |:--------------|:------------------------------------------------------------------------------------------|:--------------|
 | HITCON 2016   | [secretholder](https://github.com/aidielse/pwning/tree/master/respectable/secretholder)   | __SOLVED__    |
 | HITCON 2016   | [sleepyholder](https://github.com/aidielse/pwning/tree/master/respectable/sleepyholder)   | UNSOLVED      |
+| BCTF 2016     | [bcloud](https://github.com/aidielse/the_gauntlet/tree/master/respectable/bcloud)         | __SOLVED__    |
 | BKP 2016      | [cookbook](https://github.com/aidielse/pwning/tree/master/respectable/cookbook)           | __SOLVED__    |
 | BKP 2016      | [segsh](https://github.com/aidielse/pwning/tree/master/respectable/segsh)                 | UNSOLVED      |
 | 32C3 2015     | [ranger](https://github.com/aidielse/pwning/tree/master/respectable/ranger)               | UNSOLVED      |
