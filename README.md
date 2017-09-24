@@ -18,7 +18,7 @@
  
 # Easy
  
-* __\[SOLVED\]__[HITCON CTF 2016] ShellingFolder
+* [HITCON CTF 2016] ShellingFolder
 * [TWMMA CTF 2016] Interpreter
 * [DEFCON CTF 2016] banker
 * [DEFCON CTF 2016] heapfun4u
@@ -31,18 +31,10 @@
 * [32c3 CTF 2015] readme
 * [DEFCON CTF 2015] wibbly wobbly timey wimey
 * [31c3 CTF 2014] cfy
-* [ED-CTF] my\_sandbox
 * __\[SOLVED\]__[DEFCON CTF 2014] babysfirstheap
 * [PlaidCTF 2014] ezhp
 * [PlaidCTF 2014] sass
 * [CodeGate-2014] Angry Doraemon
-* [SIGINT CTF 2013] pwning 100
-* __\[SOLVED\]__[[PlaidCTF 2013] ropasaurusrex
-* [ebCTF 2013] pwn300
-* [UFOCTF 2013] ufobay
-* [CodeGate 2013] Vuln400
-* [CodeGate 2013] Vuln500
-* [Gits CTF 2013] Back2Skool
  
 # Medium-Easy
  
@@ -62,12 +54,6 @@
 * [PlaidCTF 2014] kappa - Pwnables275
 * [Gits CTF 2014] Q10 - TI-1337
 * [Gits CTF 2014] Q12 - Fuzzy
-* [30c3 CTF 2013] PWN 400 - DOGE2
-* [30c3 CTF 2013] PWN 350 - cwitscher
-* [UFOCTF 2013] Pwn300 - doomsday
-* [UFOCTF 2013] Pwn400 - psychotherapy
-* [DEFCON CTF 2013] Exploitation3 - ergab
-* [DEFCON CTF 2013] Exploitation4 - annyong
  
 # Medium
  
@@ -95,20 +81,6 @@
 * [PlaidCTF 2014] harry\_potter - Pwnables300
 * [CodeGate-2014] 4stone pwn300
 * [Gits CTF 2014] Teaser Round #2 - Plaid Parliament of Codegate
-* [30c3 CTF 2013] PWN 400 - bittorrent
-* [30c3 CTF 2013] PWN 400 - bigdata
-* [ebCTF 2013] pwn400
-* [SIGINT CTF 2013] pwning 400 - crash
-* [DEFCON CTF 2013] Exploitation1 - bitterswallow
-* [SECUINSIDE 2013] movie\_talk - 550
-* [BkPCTF 2013] pwning 200 - fss\_gainesville
-* [BkPCTF 2013] pwning 350 - fss\_burlington
-* [BkPCTF 2013] pwning 200 - fss\_rancho
-* [BkPCTF 2013] pwning 250 - fss\_montgomery
-* [BkPCTF 2013] pwning Extra - fss\_miami
-* [BkPCTF 2013] pwning Extra - fss\_bridgeport
-* [Gits CTF 2013] Q18 - Crunch Time
-* [Gits CTF 2013] Teaser Round #1 - Choose your Pwn Adventure
  
 # Medium-Hard
  
@@ -146,12 +118,7 @@
 * [CodeGate-2014] dodosandbox pwn600
 * [CodeGate-2014] Korean Restaurant pwn700
 * [Olympic CTF Sochi 2014] zpwn
-* [30c3 CTF 2013] PWN 300 - todos
-* [SECUINSIDE 2013] xml2html - 400
-* [SECUINSIDE 2013] pwn me!! - 750
-* [SECUINSIDE 2013] zombiemanager - 750
-* [SECUINSIDE 2013] angry danbi - 900
- 
+
 # Hard
  
 * [0CTF 2017] Pwn 687 - KNOTE
@@ -178,7 +145,3 @@
 * [CodeGate-2014] membership pwn800
 * [Olympic CTF Sochi 2014] 20Lines
 * [Gits CTF 2014] Q13 - Byte Sexual
-* [hack.lu2013] #16 Breznparadisebugmaschine - 500
-* [DEFCON CTF 2013] Exploitation5 - yolo
-* [PlaidCTF 2013] Pwn e1000 - 250
-* [PlaidCTF 2013] Web servr - 400
