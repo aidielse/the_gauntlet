@@ -92,10 +92,10 @@
 * [CodeGate 2015] Olive and Mushroom Pizza
 * [CodeGate 2015] Rodent
 * [Gits CTF 2015] boxxy
-* [31c3 CTF 2014] pwn30 - Nokia 1337
-* [31c3 CTF 2014] pwn35 - booking
-* [9447 CTF 2014] pwn420 - classy
-* __\[SOLVED\]__[[Pwnable.kr] softmmu
+* [31c3 CTF 2014] Nokia 1337
+* [31c3 CTF 2014] booking
+* [9447 CTF 2014] classy
+* __\[SOLVED\]__[Pwnable.kr] softmmu
 * [DEFCON CTF 2014 Final] justify
 * [DEFCON CTF 2014] turdedo
 * [CodeGate-2014] minibomb
@@ -105,27 +105,21 @@
 
 # Hard
  
-* [0CTF 2017] Pwn 687 - KNOTE
-* [HITCON CTF 2016] Pwn 500 House of Orange
-* [DEFCON CTF 2016] easier - Pwnable
-* [PlaidCTF 2016] awkward - Pwnables600
-* [HITCON CTF 2015] Pwn 500 - deathweed
-* [PlaidCTF 2015] qttpd - Pwnables950
-* [PlaidCTF 2015] PlaidDB - Pwnables550
-* [PlaidCTF 2015] tp - Pwnables620
-* [CodeGate 2015] Pwnable1000 oemu
-* [CodeGate 2015] Pwnable1000 weff
-* [Gits CTF 2015] Q13 - gitschat
-* [31c3 CTF 2014] pwn50 - Nokia 31337
-* [31c3 CTF 2014] pwn30 - cfy2
-* [31c3 CTF 2014] pwn50 - saas
-* [hack.lu2014] #03 OREO - Exploiting400
-* [hack.lu2014] #05 breakout - Exploiting500
-* [hack.lu2014] #15 Mario - Exploiting500
-* [HITCON CTF 2014] Pwnables 550 - stkof
-* [DEFCON CTF 2014 Final] wdub2
-* __\[SOLVED\]__[[Pwnable.kr] towelroot
-* [DEFCON CTF 2014] Lightning: 5 - dosfun4u
-* [CodeGate-2014] membership pwn800
-* [Olympic CTF Sochi 2014] 20Lines
+* [0CTF 2017] KNOTE
+* [HITCON CTF 2016] House of Orange
+* [PlaidCTF 2016] awkward
+* [HITCON CTF 2015] deathweed
+* [PlaidCTF 2015] PlaidDB
+* [PlaidCTF 2015] tp
+* [CodeGate 2015] weff
+* [Gits CTF 2015] gitschat
+* [31c3 CTF 2014] cfy2
+* [31c3 CTF 2014] saas
+* [hack.lu2014] oreo
+* [hack.lu2014] breakout
+* [hack.lu2014] mario 
+* [HITCON CTF 2014] stkof
+* __\[SOLVED\]__[Pwnable.kr] towelroot
+* [DEFCON CTF 2014] dosfun4u
+* [CodeGate-2014] membership
 * [Gits CTF 2014] Q13 - Byte Sexual
