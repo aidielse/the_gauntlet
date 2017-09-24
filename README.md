@@ -122,4 +122,4 @@
 * __\[SOLVED\]__[Pwnable.kr] towelroot
 * [DEFCON CTF 2014] dosfun4u
 * [CodeGate-2014] membership
-* [Gits CTF 2014] Q13 - Byte Sexual
+* [Gits CTF 2014] Byte Sexual
