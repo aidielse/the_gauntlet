@@ -8,6 +8,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 | CTF                   | Challenge                                                                                                 | Solved?       |
 |:----------------------|:----------------------------------------------------------------------------------------------------------|:--------------|
+| CSAW 2016             | [zone](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/zone)                   | __SOLVED__    |
 | TOKYO WESTERNS 2016   | [greeting](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/greeting)                 | UNSOLVED      |
 | DEFCON 2016           | [xkcd](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/xkcd)                         | UNSOLVED      |
 | DEFCON 2015           | [r0pbaby](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/r0pbaby)                   | __SOLVED__    |
@@ -17,6 +18,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | CSAW 2013             | [csawdiary](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/csawdiary)               | UNSOLVED      |
 | CSAW 2013             | [miteegashun](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/miteegashun)           | UNSOLVED      |
 | PlaidCTF 2013         | [ropasaurusrex](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex) | UNSOLVED      | 
+
 ## Difficulty: Easy
 
 | CTF                   | Challenge                                                                                                     | Solved?       |
