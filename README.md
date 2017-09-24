@@ -57,7 +57,7 @@
 # Medium
  
 * __\[SOLVED\]__[[HITCON CTF 2016] Secret Holder
-* [HITCON CTF 2016] Pwn 300 Sleepy Holder
+* [HITCON CTF 2016] Sleepy Holder
 * __\[SOLVED\]__[[BkP CTF 2016] Cookbook
 * [BkP CTF 2016] segsh
 * [32c3 CTF 2015] ranger
@@ -74,45 +74,33 @@
 * __\[SOLVED\]__[Pwnable.kr] tiny
 * __\[SOLVED\]__[Pwnable.kr] dos4fun
 * [BkP CTF 2014] snapstagram
-* [PlaidCTF 2014] jackshit - Pwnables200
-* [PlaidCTF 2014] harry\_potter - Pwnables300
-* [CodeGate-2014] 4stone pwn300
+* [PlaidCTF 2014] jackshit
+* [PlaidCTF 2014] harry\_potter
+* [CodeGate-2014] 4stone
  
 # Medium-Hard
  
-* [HITCON CTF 2016] Pwn 350 OmegaGo
-* [HITCON CTF 2016] Pwn 400 Heart Attack
-* [TWMMA CTF 2016] Web/Pwn/For Hastur
-* [DEFCON CTF 2016] justintime - Pwnable
-* [DEFCON CTF 2016] glados - Pwnable
-* [DEFCON CTF 2016] badger - There I Fixed It
-* [BCTF 2016] Exp400 knurd
-* [BkP CTF 2016] #11 spacerex - pwn8
-* [32c3 CTF 2015] pwn500 - bingo
-* [32c3 CTF 2015] pwn300 - sandbox
-* [HITCON CTF 2015] Pwn 200 - blinkroot
-* [Trend Micro CTF 2015] secure\_mm - analysis offensive 500
-* [DEFCON CTF 2015] tensixtyseven - Pwnable 4
-* [DEFCON CTF 2015] thing2 - Pwnable 4
-* [DEFCON CTF 2015] hackercalc - Pwnable 5
-* [CodeGate 2015] Pwnable800 Olive and Mushroom Pizza
-* [CodeGate 2015] Pwnable800 Rodent
-* [Gits CTF 2015] Q11 - boxxy
+* [HITCON CTF 2016] Heart Attack
+* [DEFCON CTF 2016] glados
+* [BkP CTF 2016] spacerex
+* [32c3 CTF 2015] bingo
+* [32c3 CTF 2015] sandbox
+* [HITCON CTF 2015] blinkroot
+* [DEFCON CTF 2015] tensixtyseven
+* [DEFCON CTF 2015] thing2
+* [DEFCON CTF 2015] hackercalc
+* [CodeGate 2015] Olive and Mushroom Pizza
+* [CodeGate 2015] Rodent
+* [Gits CTF 2015] boxxy
 * [31c3 CTF 2014] pwn30 - Nokia 1337
 * [31c3 CTF 2014] pwn35 - booking
 * [9447 CTF 2014] pwn420 - classy
-* [ED-CTF] local\_only\_64
-* [ED-CTF] local\_only\_32
-* [ED-CTF] Heap is a tomodachi of mine
-* [ED-CTF] Under Debugging
 * __\[SOLVED\]__[[Pwnable.kr] softmmu
 * [DEFCON CTF 2014 Final] justify
-* [SECUINSIDE CTF 2014 Final] pwn300 - notes
-* [SECUINSIDE CTF 2014 Final] pwn300 - numbers
-* [DEFCON CTF 2014] Selir: 3 - turdedo
-* [CodeGate-2014] minibomb pwn400
-* [CodeGate-2014] dodosandbox pwn600
-* [CodeGate-2014] Korean Restaurant pwn700
+* [DEFCON CTF 2014] turdedo
+* [CodeGate-2014] minibomb
+* [CodeGate-2014] dodosandbox
+* [CodeGate-2014] Korean Restaurant
 * [Olympic CTF Sochi 2014] zpwn
 
 # Hard
