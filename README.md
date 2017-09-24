@@ -55,27 +55,27 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 ## Medium
  
-* __\[SOLVED\]__[[HITCON CTF 2016] Secret Holder
-* [HITCON CTF 2016] Sleepy Holder
-* __\[SOLVED\]__[[BkP CTF 2016] Cookbook
-* [BkP CTF 2016] segsh
-* [32c3 CTF 2015] ranger
-* [HITCON CTF 2015] readable
-* [MMA CTF 1st 2015] d3flate
-* [DEFCON CTF 2015] fuckup
-* [DEFCON CTF 2015] heapsoffun
-* [DEFCON CTF 2015] int3rupted
-* [CodeGate 2015] beef\_steak
-* [CodeGate 2015] sokoban
-* [Gits CTF 2015] Citadel
-* [31c3 CTF 2014] sarge
-* [31c3 CTF 2014] pong
-* __\[SOLVED\]__[Pwnable.kr] tiny
-* __\[SOLVED\]__[Pwnable.kr] dos4fun
-* [BkP CTF 2014] snapstagram
-* [PlaidCTF 2014] jackshit
-* [PlaidCTF 2014] harry\_potter
-* [CodeGate-2014] 4stone
+* __\[SOLVED\]__\[HITCON CTF 2016\] [secretholder](https://github.com/aidielse/pwning/tree/master/Medium/secretholder)
+* \[HITCON CTF 2016\] [sleepyholder](https://github.com/aidielse/pwning/tree/master/Medium/sleepyholder)
+* __\[SOLVED\]__\[BkP CTF 2016\] [cookbook](https://github.com/aidielse/pwning/tree/master/Medium/cookbook)
+* \[BkP CTF 2016\] [segsh](https://github.com/aidielse/pwning/tree/master/Medium/segsh)
+* \[32c3 CTF 2015\] [ranger](https://github.com/aidielse/pwning/tree/master/Medium/ranger)
+* \[HITCON CTF 2015\] [readable](https://github.com/aidielse/pwning/tree/master/Medium/readable)
+* \[MMA CTF 1st 2015\] [d3flate](https://github.com/aidielse/pwning/tree/master/Medium/d3flate)
+* \[DEFCON CTF 2015\] [fuckup](https://github.com/aidielse/pwning/tree/master/Medium/fuckup)
+* \[DEFCON CTF 2015\] [heapsoffun](https://github.com/aidielse/pwning/tree/master/Medium/heapsoffun)
+* \[DEFCON CTF 2015\] [int3rupted](https://github.com/aidielse/pwning/tree/master/Medium/int3rupted)
+* \[CodeGate 2015\] [beef\_steak](https://github.com/aidielse/pwning/tree/master/Medium/beef_steak)
+* \[CodeGate 2015\] [sokoban](https://github.com/aidielse/pwning/tree/master/Medium/sokoban)
+* \[Gits CTF 2015\] [citadel](https://github.com/aidielse/pwning/tree/master/Medium/citadel)
+* \[31c3 CTF 2014\] [sarge](https://github.com/aidielse/pwning/tree/master/Medium/sarge)
+* \[31c3 CTF 2014\] [pong](https://github.com/aidielse/pwning/tree/master/Medium/pong)
+* __\[SOLVED\]__\[Pwnable.kr\] tiny
+* __\[SOLVED\]__\[Pwnable.kr\] dos4fun
+* \[BkP CTF 2014\] [snapstagram](https://github.com/aidielse/pwning/tree/master/Medium/snapstagram)
+* \[PlaidCTF 2014\] [jackshit](https://github.com/aidielse/pwning/tree/master/Medium/jackshit)
+* \[PlaidCTF 2014\] [harry\_potter](https://github.com/aidielse/pwning/tree/master/Medium/harry_potter)
+* \[CodeGate-2014\] [4stone](https://github.com/aidielse/pwning/tree/master/Medium/4stone)
  
 ## Medium-Hard
  
