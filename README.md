@@ -47,39 +47,36 @@
 * [BkP CTF 2015] jfk-umass
 * [31c3 CTF 2014] mynx
 * [31c3 CTF 2014] maze
-* __\[SOLVED\]__[[Pwnable.kr] unexploitable
-* [hack.lu2014] #07 Holy Moses - Exploiting300
-* [hack.lu2014] #14 The Union - Exploiting200
-* [PlaidCTF 2014] kappa - Pwnables275
-* [Gits CTF 2014] Q10 - TI-1337
-* [Gits CTF 2014] Q12 - Fuzzy
+* __\[SOLVED\]__[Pwnable.kr] unexploitable
+* [hack.lu2014] #07 Holy Moses
+* [hack.lu2014] #14 The Union
+* [PlaidCTF 2014] kappa
+* [Gits CTF 2014] TI-1337
+* [Gits CTF 2014] Fuzzy
  
 # Medium
  
-* __\[SOLVED\]__[[HITCON CTF 2016] Pwn 100 Secret Holder
+* __\[SOLVED\]__[[HITCON CTF 2016] Secret Holder
 * [HITCON CTF 2016] Pwn 300 Sleepy Holder
-* [DEFCON CTF 2016] kiss - Pwnable
 * __\[SOLVED\]__[[BkP CTF 2016] Cookbook
-* [BkP CTF 2016] #5 segsh - pwn6
-* [32c3 CTF 2015] pwn400 - ranger
-* [HITCON CTF 2015] Pwn 300 - readable
+* [BkP CTF 2016] segsh
+* [32c3 CTF 2015] ranger
+* [HITCON CTF 2015] readable
 * [MMA CTF 1st 2015] d3flate
-* [DEFCON CTF 2015] fuckup - Pwnable 3
-* [DEFCON CTF 2015] heapsoffun - Pwnable 4
-* [DEFCON CTF 2015] int3rupted - Pwnable 5
-* [CodeGate 2015] Pwnable400 beef\_steak
-* [CodeGate 2015] Pwnable1000 sokoban
-* [CodeGate 2015] Pwnable1000 icbm
-* [Gits CTF 2015] Teaser Round #1 - Citadel
-* [31c3 CTF 2014] pwn20 - sarge
-* [31c3 CTF 2014] pwn30 - pong
-* __\[SOLVED\]__[[Pwnable.kr] tiny
-* __\[SOLVED\]__[[Pwnable.kr] dos4fun
-* [BkP CTF 2014] Snapstagram(TM) pwn350
+* [DEFCON CTF 2015] fuckup
+* [DEFCON CTF 2015] heapsoffun
+* [DEFCON CTF 2015] int3rupted
+* [CodeGate 2015] beef\_steak
+* [CodeGate 2015] sokoban
+* [Gits CTF 2015] Citadel
+* [31c3 CTF 2014] sarge
+* [31c3 CTF 2014] pong
+* __\[SOLVED\]__[Pwnable.kr] tiny
+* __\[SOLVED\]__[Pwnable.kr] dos4fun
+* [BkP CTF 2014] snapstagram
 * [PlaidCTF 2014] jackshit - Pwnables200
 * [PlaidCTF 2014] harry\_potter - Pwnables300
 * [CodeGate-2014] 4stone pwn300
-* [Gits CTF 2014] Teaser Round #2 - Plaid Parliament of Codegate
  
 # Medium-Hard
  
