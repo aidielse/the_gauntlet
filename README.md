@@ -17,23 +17,23 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
  
 ## Easy
  
-* [HITCON CTF 2016] ShellingFolder
-* [TWMMA CTF 2016] Interpreter
-* [DEFCON CTF 2016] banker
-* [DEFCON CTF 2016] heapfun4u
-* [DEFCON CTF 2016] feedme
-* [CodeGate 2016] OldSchool
-* [CodeGate 2016] FlOppy
-* [CodeGate 2016] Serial
-* [BkP CTF 2016] Simple Calc
-* [BkP CTF 2016] complex calc 
-* [32c3 CTF 2015] readme
-* [DEFCON CTF 2015] wibbly wobbly timey wimey
-* [31c3 CTF 2014] cfy
-* __\[SOLVED\]__[DEFCON CTF 2014] babysfirstheap
-* [PlaidCTF 2014] ezhp
-* [PlaidCTF 2014] sass
-* [CodeGate-2014] Angry Doraemon
+* \[HITCON CTF 2016\] [shellingfolder](https://github.com/aidielse/pwning/tree/master/Easy/shellingfolder)
+* \[TWMMA CTF 2016\] [interpreter](https://github.com/aidielse/pwning/tree/master/Easy/interpreter)
+* \[DEFCON CTF 2016\] [banker](https://github.com/aidielse/pwning/tree/master/Easy/banker)
+* \[DEFCON CTF 2016\] [heapfun4u](https://github.com/aidielse/pwning/tree/master/Easy/heapfun4u)
+* \[DEFCON CTF 2016\] [feedme](https://github.com/aidielse/pwning/tree/master/Easy/feedme)
+* \[CodeGate 2016\] [oldschool](https://github.com/aidielse/pwning/tree/master/Easy/oldschool)
+* \[CodeGate 2016\] [flOppy](https://github.com/aidielse/pwning/tree/master/Easy/fl0ppy)
+* \[CodeGate 2016\] [serial](https://github.com/aidielse/pwning/tree/master/Easy/serial)
+* \[BkP CTF 2016\] [simplecalc](https://github.com/aidielse/pwning/tree/master/Easy/simplecalc)
+* \[BkP CTF 2016\] [complexcalc](https://github.com/aidielse/pwning/tree/master/Easy/complexcalc) 
+* \[32c3 CTF 2015\] [readme](https://github.com/aidielse/pwning/tree/master/Easy/readme)
+* \[DEFCON CTF 2015\] [wibbly wobbly timey wimey](https://github.com/aidielse/pwning/tree/master/Easy/wibbly_wobbly_timey_wimey)
+* \[31c3 CTF 2014\] [cfy](https://github.com/aidielse/pwning/tree/master/Easy/cfy)
+* __\[SOLVED\]__\[DEFCON CTF 2014\] [babysfirstheap](https://github.com/aidielse/pwning/tree/master/Easy/babysfirstheap)
+* \[PlaidCTF 2014\] [ezhp](https://github.com/aidielse/pwning/tree/master/Easy/ezhp)
+* \[PlaidCTF 2014\] [sass](https://github.com/aidielse/pwning/tree/master/Easy/sass)
+* \[CodeGate-2014\] [angry doraemon](https://github.com/aidielse/pwning/tree/master/Easy/angry_doraemon)
  
 ## Medium-Easy
  
