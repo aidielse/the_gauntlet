@@ -37,22 +37,22 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
  
 ## Medium-Easy
  
-* __\[SOLVED\]__[[HITCON CTF 2016] Babyheap
-* [TWMMA CTF 2016] diary
-* [TWMMA CTF 2016] shadow
-* __\[SOLVED\]__[[DEFCON CTF 2016] pillpusher
-* [DEFCON CTF 2016] crunchtime
-* [MMA CTF 1st 2015] spell
-* [BkP CTF 2015] jfk-umass
-* [31c3 CTF 2014] mynx
-* [31c3 CTF 2014] maze
-* __\[SOLVED\]__[Pwnable.kr] unexploitable
-* [hack.lu2014] #07 Holy Moses
-* [hack.lu2014] #14 The Union
-* [PlaidCTF 2014] kappa
-* [Gits CTF 2014] TI-1337
-* [Gits CTF 2014] Fuzzy
- 
+* __\[SOLVED\]__\[HITCON CTF 2016] [babyheap](https://github.com/aidielse/pwning/tree/master/Medium-Easy/babyheap)
+* \[TWMMA CTF 2016\] [diary](https://github.com/aidielse/pwning/tree/master/Medium-Easy/diary)
+* \[TWMMA CTF 2016\] [shadow](https://github.com/aidielse/pwning/tree/master/Medium-Easy/shadow)
+* __\[SOLVED\]__\[DEFCON CTF 2016\] [pillpusher](https://github.com/aidielse/pwning/tree/master/Medium-Easy/pillpusher)
+* \[DEFCON CTF 2016\] [crunchtime](https://github.com/aidielse/pwning/tree/master/Medium-Easy/crunchtime)
+* \[MMA CTF 1st 2015\] [spell](https://github.com/aidielse/pwning/tree/master/Medium-Easy/spell)
+* \[BkP CTF 2015\] [jfk-umass](https://github.com/aidielse/pwning/tree/master/Medium-Easy/jfk-umass)
+* \[31c3 CTF 2014\] [mynx](https://github.com/aidielse/pwning/tree/master/Medium-Easy/mynx)
+* \[31c3 CTF 2014\] [maze](https://github.com/aidielse/pwning/tree/master/Medium-Easy/maze)
+* __\[SOLVED\]__\[Pwnable.kr\] unexploitable
+* \[hack.lu2014\] [holy-moses](https://github.com/aidielse/pwning/tree/master/Medium-Easy/holy-moses)
+* \[hack.lu2014\] [the-union](https://github.com/aidielse/pwning/tree/master/Medium-Easy/the-union)
+* \[PlaidCTF 2014\] [kappa](https://github.com/aidielse/pwning/tree/master/Medium-Easy/kappa)
+* \[Gits CTF 2014\] [ti-1337](https://github.com/aidielse/pwning/tree/master/Medium-Easy/ti-1337)
+* \[Gits CTF 2014\] [fuzzy](https://github.com/aidielse/pwning/tree/master/Medium-Easy/fuzzy)
+
 ## Medium
  
 * __\[SOLVED\]__[[HITCON CTF 2016] Secret Holder
