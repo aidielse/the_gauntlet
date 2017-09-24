@@ -7,57 +7,42 @@
  
 # Baby
 
-* [TWMMA CTF 2016] Pwn greeting
-* [DEFCON CTF 2016] xkcd - Baby's First
-* __\[SOLVED\]__[DEFCON CTF 2015] r0pbaby - Baby's First 1
-* [DEFCON CTF 2015] babyecho - Baby's First 1
-* [CSAW CTF 2014] Exploitation400 - greenhornd
-* [CSAW CTF 2013] Exploitation2 - 200 Points
-* [CSAW CTF 2013] Exploitation3 - 300 Points
-* [CSAW CTF 2013] Exploitation4 - 400 Points
-* [ebCTF 2013] pwn200
-* [CodeGate 2013] Vuln100
-* [CodeGate 2013] Vuln200
-* [CodeGate 2013] Vuln300
-* [Gits CTF 2013] Q5 - FunnyBusiness
-* [Gits CTF 2013] Q8 - Shiftd
-* [ksnctf] #04 Villager A
-* [CSAW CTF 2012] 4842 - 300 Points
-* [CSAW CTF 2012] 23456 - 400 Points
-* [CSAW CTF 2012] 12345 - 500 Points
+* [TW CTF 2016] greeting
+* [DEFCON CTF 2016] xkcd
+* __\[SOLVED\]__[DEFCON CTF 2015] r0pbaby
+* [DEFCON CTF 2015] babyecho
+* [CSAW CTF 2014] greenhornd
+* [CSAW CTF 2013] exploit2
+* [CSAW CTF 2013] csawdiary
+* [CSAW CTF 2013] miteegashun
  
 # Easy
  
-* __\[SOLVED\]__[HITCON CTF 2016] Pwn 200 ShellingFolder
-* [TWMMA CTF 2016] Pwn Interpreter
-* [DEFCON CTF 2016] banker - Pwnable
-* [DEFCON CTF 2016] heapfun4u - Baby's First
-* [DEFCON CTF 2016] feedme - Baby's First
-* [CodeGate 2016] Pwnable490 OldSchool
-* [CodeGate 2016] Pwnable315 FlOppy
-* [CodeGate 2016] Pwnable444 Serial
-* [BkP CTF 2016] #2 Simple Calc - pwn5
-* [BkP CTF 2016] #13 complex calc - pwn5
-* [32c3 CTF 2015] pwn200 - readme
-* [DEFCON CTF 2015] wibbly wobbly timey wimey - Pwnable 2
-* [31c3 CTF 2014] pwn10 - cfy
+* __\[SOLVED\]__[HITCON CTF 2016] ShellingFolder
+* [TWMMA CTF 2016] Interpreter
+* [DEFCON CTF 2016] banker
+* [DEFCON CTF 2016] heapfun4u
+* [DEFCON CTF 2016] feedme
+* [CodeGate 2016] OldSchool
+* [CodeGate 2016] FlOppy
+* [CodeGate 2016] Serial
+* [BkP CTF 2016] Simple Calc
+* [BkP CTF 2016] complex calc 
+* [32c3 CTF 2015] readme
+* [DEFCON CTF 2015] wibbly wobbly timey wimey
+* [31c3 CTF 2014] cfy
 * [ED-CTF] my\_sandbox
-* __\[SOLVED\]__[DEFCON CTF 2014] Baby's First: 1 - heap
-* [PlaidCTF 2014] ezhp - Pwnables200
-* [PlaidCTF 2014] sass - Pwnables200
-* [CodeGate-2014] Angry Doraemon pwn250
-* [SIGINT CTF 2013] pwning 100 - baremetal
-* __\[SOLVED\]__[[PlaidCTF 2013] Pwn ropasaurusrex - 200
+* __\[SOLVED\]__[DEFCON CTF 2014] babysfirstheap
+* [PlaidCTF 2014] ezhp
+* [PlaidCTF 2014] sass
+* [CodeGate-2014] Angry Doraemon
+* [SIGINT CTF 2013] pwning 100
+* __\[SOLVED\]__[[PlaidCTF 2013] ropasaurusrex
 * [ebCTF 2013] pwn300
-* [UFOCTF 2013] Pwn100 - ufobay
+* [UFOCTF 2013] ufobay
 * [CodeGate 2013] Vuln400
 * [CodeGate 2013] Vuln500
-* [Gits CTF 2013] Q10 - Back2Skool
-* [ksnctf] #23 Villager B
-* [29c3 CTF 2012] Exploitation - ru1337
-* [29c3 CTF 2012] Exploitation - update\_server
-* [PHDays CTF 2012] #07 PWN200
-* [PoliCTF 2012] Bin-Pwn 300
+* [Gits CTF 2013] Back2Skool
  
 # Medium-Easy
  
@@ -83,8 +68,6 @@
 * [UFOCTF 2013] Pwn400 - psychotherapy
 * [DEFCON CTF 2013] Exploitation3 - ergab
 * [DEFCON CTF 2013] Exploitation4 - annyong
-* [hack.lu2012] #09 Braincpy - 300
-* [hack.lu2012] #21 Get the Tank - 400
  
 # Medium
  
@@ -126,8 +109,6 @@
 * [BkPCTF 2013] pwning Extra - fss\_bridgeport
 * [Gits CTF 2013] Q18 - Crunch Time
 * [Gits CTF 2013] Teaser Round #1 - Choose your Pwn Adventure
-* [29c3 CTF 2012] Exploitation - proxy
-* [PHDays CTF 2012] #10 PWN500
  
 # Medium-Hard
  
@@ -170,7 +151,6 @@
 * [SECUINSIDE 2013] pwn me!! - 750
 * [SECUINSIDE 2013] zombiemanager - 750
 * [SECUINSIDE 2013] angry danbi - 900
-* [29c3 CTF 2012] Exploitation - memcached
  
 # Hard
  
@@ -202,4 +182,3 @@
 * [DEFCON CTF 2013] Exploitation5 - yolo
 * [PlaidCTF 2013] Pwn e1000 - 250
 * [PlaidCTF 2013] Web servr - 400
-* [hack.lu2012] #06 Braingathering - 500
