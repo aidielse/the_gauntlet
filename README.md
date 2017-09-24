@@ -4,7 +4,31 @@ This is an organized list of cream-of-the-crop pwning challenges that have come 
 
 I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every binary that I could.
 
-## Difficulty: Gotta Start Somewhere
+## Recommended Training
+
+It is highly recommended that you work your way through the following material before you tackle the gauntlet.
+
+1. [Modern Binary Exploitation](https://github.com/RPISEC/MBE) [MBE Website](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+2. [Malware Analysis](https://github.com/RPISEC/Malware)
+3. [HITCON-Training](https://github.com/scwuaptx/HITCON-Training)
+
+## Useful Resources
+
+Here are some resources to help you out as you go through the gauntlet.
+
+1. Linux Heap Exploitation
+    * [Sploitfun](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
+    * [Shellphish how2heap](https://github.com/shellphish/how2heap)
+    * [Heap Exploitation Book](https://heap-exploitation.dhavalkapil.com/)
+    * [ptmalloc fanzine](http://tukan.farm/2016/07/26/ptmalloc-fanzine/)
+2. Linux Kernel Exploitation
+    * [Kernel Exploitation Master List](https://github.com/MrMugiwara/linux-kernel-exploitation)
+    * [Android Kernel Security](https://github.com/ukanth/afwall/wiki/Kernel-security)
+3. [Stack Clash](https://www.qualys.com/2017/06/19/stack-clash/stack-clash.txt)
+
+## Challenges
+
+### Difficulty: Gotta Start Somewhere
 
 | CTF                   | Challenge                                                                                                 | Solved?       |
 |:----------------------|:----------------------------------------------------------------------------------------------------------|:--------------|
@@ -19,7 +43,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | CSAW 2013             | [miteegashun](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/miteegashun)           | UNSOLVED      |
 | PlaidCTF 2013         | [ropasaurusrex](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex) | UNSOLVED      | 
 
-## Difficulty: Easy
+### Difficulty: Easy
 
 | CTF                   | Challenge                                                                                                     | Solved?       |
 |:----------------------|:--------------------------------------------------------------------------------------------------------------|:--------------|
@@ -41,7 +65,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | PlaidCTF 2014         | [ezhp](https://github.com/aidielse/pwning/tree/master/easy/ezhp)                                              | UNSOLVED      |
 | PlaidCTF 2014         | [sass](https://github.com/aidielse/pwning/tree/master/easy/sass)                                              | UNSOLVED      |
  
-## Difficulty: Average
+### Difficulty: Average
 
 | CTF                   | Challenge                                                                             | Solved?       |
 |:----------------------|---------------------------------------------------------------------------------------|:--------------|
@@ -62,7 +86,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | PlaidCTF 2014         | [kappa](https://github.com/aidielse/pwning/tree/master/average/kappa)                 | UNSOLVED      |
 | pwnable.kr            | unexploitable                                                                         | __SOLVED__    |
 
-## Difficulty: Respectable
+### Difficulty: Respectable
 
 | CTF           | Challenge                                                                                 | Solved?       |
 |:--------------|:------------------------------------------------------------------------------------------|:--------------|
@@ -89,7 +113,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | pwnable.kr    | dos4fun                                                                                   | __SOLVED__    |
 | pwnable.kr    | tiny                                                                                      | __SOLVED__    |
 
-## Difficulty: Stressful
+### Difficulty: Stressful
 
 | CTF           | Challenge                                                                                                         | Solved?       |
 |:--------------|:------------------------------------------------------------------------------------------------------------------|:--------------|
@@ -116,7 +140,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | Olympic 2014  | [zpwn](https://github.com/aidielse/pwning/tree/master/stressful/zpwn)                                             | UNSOLVED      |
 | pwnable.kr    | softmmu                                                                                                           | __SOLVED__    |
 
-## Difficulty: Soul Crushing
+### Difficulty: Soul Crushing
 
 | CTF           | Challenge                                                                                         | Solved?       |
 |:--------------|:--------------------------------------------------------------------------------------------------|:--------------|
