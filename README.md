@@ -5,7 +5,7 @@
 4. Web Challenges List 2016 (by 193s) - http://pastebin.com/6EH6X0yL
 5. rev challenges list (by N4NU) - http://pastebin.com/q7LGi8w5
  
-#baby
+# Baby
 
 * [TWMMA CTF 2016] Pwn greeting
 * [DEFCON CTF 2016] xkcd - Baby's First
@@ -26,7 +26,7 @@
 * [CSAW CTF 2012] 23456 - 400 Points
 * [CSAW CTF 2012] 12345 - 500 Points
  
-#easy
+# Easy
  
 * \{__SOLVED__\}[HITCON CTF 2016] Pwn 200 ShellingFolder
 * [TWMMA CTF 2016] Pwn Interpreter
@@ -59,7 +59,7 @@
 * [PHDays CTF 2012] #07 PWN200
 * [PoliCTF 2012] Bin-Pwn 300
  
-#medium easy
+# Medium-Easy
  
 * \{__SOLVED__\}[HITCON CTF 2016] Pwn 300 Babyheap
 * [TWMMA CTF 2016] Pwn diary
@@ -86,7 +86,7 @@
 * [hack.lu2012] #09 Braincpy - 300
 * [hack.lu2012] #21 Get the Tank - 400
  
-#medium
+# Medium
  
 * {SOLVED}[HITCON CTF 2016] Pwn 100 Secret Holder
 * [HITCON CTF 2016] Pwn 300 Sleepy Holder
@@ -129,7 +129,7 @@
 * [29c3 CTF 2012] Exploitation - proxy
 * [PHDays CTF 2012] #10 PWN500
  
-#medium hard
+# Medium-Hard
  
 * [HITCON CTF 2016] Pwn 350 OmegaGo
 * [HITCON CTF 2016] Pwn 400 Heart Attack
@@ -172,7 +172,7 @@
 * [SECUINSIDE 2013] angry danbi - 900
 * [29c3 CTF 2012] Exploitation - memcached
  
-#hard
+# Hard
  
 * [0CTF 2017] Pwn 687 - KNOTE
 * [HITCON CTF 2016] Pwn 500 House of Orange
