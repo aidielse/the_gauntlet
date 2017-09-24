@@ -1,10 +1,5 @@
-# Other Categories
-1. Crypto Challenges List(2015) (by eshiho) - http://pastebin.com/cSfZW2yX
-2. Crypto Challenges List(2016) (by eshiho) - http://pastebin.com/28SrvQ9b
-3. Crypto Challenges List(2017) (by eshiho) - https://pastebin.com/uttU8Pn3
-4. Web Challenges List 2016 (by 193s) - http://pastebin.com/6EH6X0yL
-5. rev challenges list (by N4NU) - http://pastebin.com/q7LGi8w5
- 
+[Original list] (https://pastebin.com/uyifxgPu) 
+
 # Baby
 
 * [TW CTF 2016] greeting
