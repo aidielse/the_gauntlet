@@ -7,7 +7,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 ## Difficulty: Baby
 
 | CTF                   | Challenge                                                                         | Solved?       |
-|:---------------------:|:---------------------------------------------------------------------------------:|:-------------:|
+|:----------------------|:----------------------------------------------------------------------------------|:--------------|
 | TOKYO WESTERNS 2016   | [greeting](https://github.com/aidielse/pwning/tree/master/Baby/greeting)          | UNSOLVED      |
 | DEFCON 2016           | [xkcd](https://github.com/aidielse/pwning/tree/master/Baby/xkcd)                  | UNSOLVED      |
 | DEFCON 2015           | [r0pbaby](https://github.com/aidielse/pwning/tree/master/Baby/r0pbaby)            | __SOLVED__    |
@@ -20,7 +20,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 ## Difficulty: Easy
 
 | CTF                   | Challenge                                                                                                     | Solved?       |
-|:---------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------:|
+|:----------------------|:--------------------------------------------------------------------------------------------------------------|:--------------|
 | HITCON  2016          | [shellingfolder](https://github.com/aidielse/pwning/tree/master/Easy/shellingfolder)                          | UNSOLVED      |
 | TOKYO WESTERNS 2016   | [interpreter](https://github.com/aidielse/pwning/tree/master/Easy/interpreter)                                | UNSOLVED      |
 | DEFCON 2016           | [banker](https://github.com/aidielse/pwning/tree/master/Easy/banker)                                          | UNSOLVED      |
@@ -42,7 +42,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 ## Difficulty: Medium-Easy
 
 | CTF                   | Challenge                                                                             | Solved?       |
-|:---------------------:|:-------------------------------------------------------------------------------------:|:-------------:|
+|:----------------------|---------------------------------------------------------------------------------------|:--------------|
 | HITCON 2016           | [babyheap](https://github.com/aidielse/pwning/tree/master/Medium-Easy/babyheap)       | __SOLVED__    |
 | TOKYO WESTERNS 2016   | [diary](https://github.com/aidielse/pwning/tree/master/Medium-Easy/diary)             | UNSOLVED      |
 | TOKYO WESTERNS 2016   | [shadow](https://github.com/aidielse/pwning/tree/master/Medium-Easy/shadow)           | UNSOLVED      |
@@ -61,7 +61,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 ## Difficulty: Medium
 | CTF           | Challenge                                                                             | Solved?       |
-|:-------------:|:-------------------------------------------------------------------------------------:|:-------------:|
+|:--------------|:--------------------------------------------------------------------------------------|:--------------|
 | HITCON 2016   | [secretholder](https://github.com/aidielse/pwning/tree/master/Medium/secretholder)    | __SOLVED__    |
 | HITCON 2016   | [sleepyholder](https://github.com/aidielse/pwning/tree/master/Medium/sleepyholder)    | UNSOLVED      |
 | BKP 2016      | [cookbook](https://github.com/aidielse/pwning/tree/master/Medium/cookbook)            | __SOLVED__    |
