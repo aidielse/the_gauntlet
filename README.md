@@ -114,23 +114,23 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 ## Difficulty: Soul Crushing
 
-| CTF           | Challenge                                                                                 | Solved?       |
-|:--------------|:------------------------------------------------------------------------------------------|:--------------|
-| 0CTF 2017     | [knote](https://github.com/aidielse/pwning/tree/master/Hard/knote)                        | UNSOLVED      |
-| HITCON 2016   | [house\_of\_orange](https://github.com/aidielse/pwning/tree/master/Hard/house_of_orange)  | UNSOLVED      |
-| PlaidCTF 2016 | [awkward](https://github.com/aidielse/pwning/tree/master/Hard/awkward)                    | UNSOLVED      |
-| HITCON 2015   | [deathweed](https://github.com/aidielse/pwning/tree/master/Hard/deathweed)                | UNSOLVED      |
-| PlaidCTF 2015 | [plaiddb](https://github.com/aidielse/pwning/tree/master/Hard/plaiddb)                    | UNSOLVED      |
-| PlaidCTF 2015 | [tp](https://github.com/aidielse/pwning/tree/master/Hard/tp)                              | UNSOLVED      |
-| CodeGate 2015 | [weff](https://github.com/aidielse/pwning/tree/master/Hard/weff)                          | UNSOLVED      |
-| GITS 2015     | [gitschat](https://github.com/aidielse/pwning/tree/master/Hard/gitschat)                  | UNSOLVED      |
-| 31C3 2014     | [cfy2](https://github.com/aidielse/pwning/tree/master/Hard/cfy2)                          | UNSOLVED      |
-| 31C3 2014     | [saas](https://github.com/aidielse/pwning/tree/master/Hard/saas)                          | UNSOLVED      |
-| hack.lu 2014  | [oreo](https://github.com/aidielse/pwning/tree/master/Hard/oreo)                          | UNSOLVED      |
-| hack.lu 2014  | [breakout](https://github.com/aidielse/pwning/tree/master/Hard/breakout)                  | UNSOLVED      |
-| hack.lu 2014  | [mario](https://github.com/aidielse/pwning/tree/master/Hard/mario)                        | UNSOLVED      |
-| HITCON 2014   | [stkof](https://github.com/aidielse/pwning/tree/master/Hard/stkof)                        | UNSOLVED      |
-| pwnable.kr    | towelroot                                                                                 | __SOLVED__    |
-| DEFCON 2014   | [dosfun4u](https://github.com/aidielse/pwning/tree/master/Hard/dosfun4u)                  | UNSOLVED      |
-| CodeGate 2014 | [membership](https://github.com/aidielse/pwning/tree/master/Hard/membership)              | UNSOLVED      |
-| GITS 2014     | [byte\_sexual](https://github.com/aidielse/pwning/tree/master/Hard/byte_sexual)           | UNSOLVED      |
+| CTF           | Challenge                                                                                         | Solved?       |
+|:--------------|:--------------------------------------------------------------------------------------------------|:--------------|
+| 0CTF 2017     | [knote](https://github.com/aidielse/pwning/tree/master/soul_crushing/knote)                       | UNSOLVED      |
+| HITCON 2016   | [house\_of\_orange](https://github.com/aidielse/pwning/tree/master/soul_crushing/house_of_orange) | UNSOLVED      |
+| PlaidCTF 2016 | [awkward](https://github.com/aidielse/pwning/tree/master/soul_crushing/awkward)                   | UNSOLVED      |
+| HITCON 2015   | [deathweed](https://github.com/aidielse/pwning/tree/master/soul_crushing/deathweed)               | UNSOLVED      |
+| PlaidCTF 2015 | [plaiddb](https://github.com/aidielse/pwning/tree/master/soul_crushing/plaiddb)                   | UNSOLVED      |
+| PlaidCTF 2015 | [tp](https://github.com/aidielse/pwning/tree/master/soul_crushing/tp)                             | UNSOLVED      |
+| CodeGate 2015 | [weff](https://github.com/aidielse/pwning/tree/master/soul_crushing/weff)                         | UNSOLVED      |
+| GITS 2015     | [gitschat](https://github.com/aidielse/pwning/tree/master/soul_crushing/gitschat)                 | UNSOLVED      |
+| 31C3 2014     | [cfy2](https://github.com/aidielse/pwning/tree/master/soul_crushing/cfy2)                         | UNSOLVED      |
+| 31C3 2014     | [saas](https://github.com/aidielse/pwning/tree/master/soul_crushing/saas)                         | UNSOLVED      |
+| hack.lu 2014  | [oreo](https://github.com/aidielse/pwning/tree/master/soul_crushing/oreo)                         | UNSOLVED      |
+| hack.lu 2014  | [breakout](https://github.com/aidielse/pwning/tree/master/soul_crushing/breakout)                 | UNSOLVED      |
+| hack.lu 2014  | [mario](https://github.com/aidielse/pwning/tree/master/soul_crushing/mario)                       | UNSOLVED      |
+| HITCON 2014   | [stkof](https://github.com/aidielse/pwning/tree/master/soul_crushing/stkof)                       | UNSOLVED      |
+| pwnable.kr    | towelroot                                                                                         | __SOLVED__    |
+| DEFCON 2014   | [dosfun4u](https://github.com/aidielse/pwning/tree/master/soul_crushing/dosfun4u)                 | UNSOLVED      |
+| CodeGate 2014 | [membership](https://github.com/aidielse/pwning/tree/master/soul_crushing/membership)             | UNSOLVED      |
+| GITS 2014     | [byte\_sexual](https://github.com/aidielse/pwning/tree/master/soul_crushing/byte_sexual)          | UNSOLVED      |
