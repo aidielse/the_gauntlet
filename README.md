@@ -4,7 +4,7 @@ This is an organized list of cream-of-the-crop pwning challenges that have come 
 
 I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every binary that I could.
 
-## Difficulty: "Gotta Start Somewhere"
+## Difficulty: Gotta Start Somewhere
 
 | CTF                   | Challenge                                                                                         | Solved?       |
 |:----------------------|:--------------------------------------------------------------------------------------------------|:--------------|
