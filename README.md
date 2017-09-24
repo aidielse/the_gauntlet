@@ -38,16 +38,15 @@
  
 # Medium-Easy
  
-* __\[SOLVED\]__[[HITCON CTF 2016] Pwn 300 Babyheap
-* [TWMMA CTF 2016] Pwn diary
-* [TWMMA CTF 2016] Pwn shadow
-* __\[SOLVED\]__[[DEFCON CTF 2016] pillpusher - Pwnable
-* [DEFCON CTF 2016] crunchtime - There I Fixed It
-* [DEFCON CTF 2016] int3rupt - There I Fixed It
+* __\[SOLVED\]__[[HITCON CTF 2016] Babyheap
+* [TWMMA CTF 2016] diary
+* [TWMMA CTF 2016] shadow
+* __\[SOLVED\]__[[DEFCON CTF 2016] pillpusher
+* [DEFCON CTF 2016] crunchtime
 * [MMA CTF 1st 2015] spell
-* [BkP CTF 2015] JFK/Umass pwn300
-* [31c3 CTF 2014] pwn30 - mynx
-* [31c3 CTF 2014] pwn40 - maze
+* [BkP CTF 2015] jfk-umass
+* [31c3 CTF 2014] mynx
+* [31c3 CTF 2014] maze
 * __\[SOLVED\]__[[Pwnable.kr] unexploitable
 * [hack.lu2014] #07 Holy Moses - Exploiting300
 * [hack.lu2014] #14 The Union - Exploiting200
