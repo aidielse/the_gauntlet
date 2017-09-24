@@ -79,28 +79,28 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
  
 ## Medium-Hard
  
-* [HITCON CTF 2016] Heart Attack
-* [DEFCON CTF 2016] glados
-* [BkP CTF 2016] spacerex
-* [32c3 CTF 2015] bingo
-* [32c3 CTF 2015] sandbox
-* [HITCON CTF 2015] blinkroot
-* [DEFCON CTF 2015] tensixtyseven
-* [DEFCON CTF 2015] thing2
-* [DEFCON CTF 2015] hackercalc
-* [CodeGate 2015] Olive and Mushroom Pizza
-* [CodeGate 2015] Rodent
-* [Gits CTF 2015] boxxy
-* [31c3 CTF 2014] Nokia 1337
-* [31c3 CTF 2014] booking
-* [9447 CTF 2014] classy
-* __\[SOLVED\]__[Pwnable.kr] softmmu
-* [DEFCON CTF 2014 Final] justify
-* [DEFCON CTF 2014] turdedo
-* [CodeGate-2014] minibomb
-* [CodeGate-2014] dodosandbox
-* [CodeGate-2014] Korean Restaurant
-* [Olympic CTF Sochi 2014] zpwn
+* \[HITCON CTF 2016\] [heartattack](https://github.com/aidielse/pwning/tree/master/Medium-Hard/heartattack)
+* \[DEFCON CTF 2016\] [glados](https://github.com/aidielse/pwning/tree/master/Medium-Hard/glados)
+* \[BkP CTF 2016\] [spacerex](https://github.com/aidielse/pwning/tree/master/Medium-Hard/spacerex)
+* \[32c3 CTF 2015\] [bingo](https://github.com/aidielse/pwning/tree/master/Medium-Hard/bingo)
+* \[32c3 CTF 2015\] [sandbox](https://github.com/aidielse/pwning/tree/master/Medium-Hard/sandbox)
+* \[HITCON CTF 2015\] [blinkroot](https://github.com/aidielse/pwning/tree/master/Medium-Hard/blinkroot)
+* \[DEFCON CTF 2015\] [tensixtyseven](https://github.com/aidielse/pwning/tree/master/Medium-Hard/tensixtyseven)
+* \[DEFCON CTF 2015\] [thing2](https://github.com/aidielse/pwning/tree/master/Medium-Hard/thing2)
+* \[DEFCON CTF 2015\] [hackercalc](https://github.com/aidielse/pwning/tree/master/Medium-Hard/hackercalc)
+* \[CodeGate 2015\] [olive-and-mushroom-pizza](https://github.com/aidielse/pwning/tree/master/Medium-Hard/olive-and-mushroom-pizza)
+* \[CodeGate 2015\] [rodent](https://github.com/aidielse/pwning/tree/master/Medium-Hard/rodent)
+* \[Gits CTF 2015\] [boxxy](https://github.com/aidielse/pwning/tree/master/Medium-Hard/boxxy)
+* \[31c3 CTF 2014\] [nokia-1337](https://github.com/aidielse/pwning/tree/master/Medium-Hard/nokia-1337)
+* \[31c3 CTF 2014\] [booking](https://github.com/aidielse/pwning/tree/master/Medium-Hard/booking)
+* \[9447 CTF 2014\] [classy](https://github.com/aidielse/pwning/tree/master/Medium-Hard/classy)
+* __\[SOLVED\]__\[Pwnable.kr\] softmmu
+* \[DEFCON CTF 2014 Final\] [justify](https://github.com/aidielse/pwning/tree/master/Medium-Hard/justify)
+* \[DEFCON CTF 2014\] [turdedo](https://github.com/aidielse/pwning/tree/master/Medium-Hard/turdedo)
+* \[CodeGate-2014\] [minibomb](https://github.com/aidielse/pwning/tree/master/Medium-Hard/minibomb)
+* \[CodeGate-2014\] [dodosandbox](https://github.com/aidielse/pwning/tree/master/Medium-Hard/dodosandbox)
+* \[CodeGate-2014\] [koreanrestaurant](https://github.com/aidielse/pwning/tree/master/Medium-Hard/koreanrestaurant)
+* \[Olympic CTF Sochi 2014\] [zpwn](https://github.com/aidielse/pwning/tree/master/Medium-Hard/zpwn)
 
 ## Hard
  
