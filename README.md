@@ -77,37 +77,38 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | GITS CTF 2015 | [citadel](https://github.com/aidielse/pwning/tree/master/Medium/citadel)              | UNSOLVED      |
 | 31C3 CTF 2014 | [sarge](https://github.com/aidielse/pwning/tree/master/Medium/sarge)                  | UNSOLVED      |
 | 31C3 CTF 2014 | [pong](https://github.com/aidielse/pwning/tree/master/Medium/pong)                    | UNSOLVED      |
-| pwnable.kr    | tiny [solved]                                                                         | __SOLVED__    |
-| pwnable.kr    | dos4fun [solved]                                                                      | __SOLVED__    |
+| pwnable.kr    | tiny                                                                                  | __SOLVED__    |
+| pwnable.kr    | dos4fun                                                                               | __SOLVED__    |
 | BKP CTF 2014  | [snapstagram](https://github.com/aidielse/pwning/tree/master/Medium/snapstagram)      | UNSOLVED      |
 | PlaidCTF 2014 | [jackshit](https://github.com/aidielse/pwning/tree/master/Medium/jackshit)            | UNSOLVED      |
 | PlaidCTF 2014 | [harry\_potter](https://github.com/aidielse/pwning/tree/master/Medium/harry_potter)   | UNSOLVED      |
 | CodeGate 2014 | [4stone](https://github.com/aidielse/pwning/tree/master/Medium/4stone)                | UNSOLVED      |
  
 ## Difficulty: Medium-Hard
- 
-* \[HITCON CTF 2016\] [heartattack](https://github.com/aidielse/pwning/tree/master/Medium-Hard/heartattack)
-* \[DEFCON CTF 2016\] [glados](https://github.com/aidielse/pwning/tree/master/Medium-Hard/glados)
-* \[BkP CTF 2016\] [spacerex](https://github.com/aidielse/pwning/tree/master/Medium-Hard/spacerex)
-* \[32c3 CTF 2015\] [bingo](https://github.com/aidielse/pwning/tree/master/Medium-Hard/bingo)
-* \[32c3 CTF 2015\] [sandbox](https://github.com/aidielse/pwning/tree/master/Medium-Hard/sandbox)
-* \[HITCON CTF 2015\] [blinkroot](https://github.com/aidielse/pwning/tree/master/Medium-Hard/blinkroot)
-* \[DEFCON CTF 2015\] [tensixtyseven](https://github.com/aidielse/pwning/tree/master/Medium-Hard/tensixtyseven)
-* \[DEFCON CTF 2015\] [thing2](https://github.com/aidielse/pwning/tree/master/Medium-Hard/thing2)
-* \[DEFCON CTF 2015\] [hackercalc](https://github.com/aidielse/pwning/tree/master/Medium-Hard/hackercalc)
-* \[CodeGate 2015\] [olive-and-mushroom-pizza](https://github.com/aidielse/pwning/tree/master/Medium-Hard/olive-and-mushroom-pizza)
-* \[CodeGate 2015\] [rodent](https://github.com/aidielse/pwning/tree/master/Medium-Hard/rodent)
-* \[Gits CTF 2015\] [boxxy](https://github.com/aidielse/pwning/tree/master/Medium-Hard/boxxy)
-* \[31c3 CTF 2014\] [nokia-1337](https://github.com/aidielse/pwning/tree/master/Medium-Hard/nokia-1337)
-* \[31c3 CTF 2014\] [booking](https://github.com/aidielse/pwning/tree/master/Medium-Hard/booking)
-* \[9447 CTF 2014\] [classy](https://github.com/aidielse/pwning/tree/master/Medium-Hard/classy)
-* __\[SOLVED\]__\[Pwnable.kr\] softmmu
-* \[DEFCON CTF 2014 Final\] [justify](https://github.com/aidielse/pwning/tree/master/Medium-Hard/justify)
-* \[DEFCON CTF 2014\] [turdedo](https://github.com/aidielse/pwning/tree/master/Medium-Hard/turdedo)
-* \[CodeGate-2014\] [minibomb](https://github.com/aidielse/pwning/tree/master/Medium-Hard/minibomb)
-* \[CodeGate-2014\] [dodosandbox](https://github.com/aidielse/pwning/tree/master/Medium-Hard/dodosandbox)
-* \[CodeGate-2014\] [koreanrestaurant](https://github.com/aidielse/pwning/tree/master/Medium-Hard/koreanrestaurant)
-* \[Olympic CTF Sochi 2014\] [zpwn](https://github.com/aidielse/pwning/tree/master/Medium-Hard/zpwn)
+| CTF           | Challenge                                                                                                         | Solved?       |
+|:--------------|:------------------------------------------------------------------------------------------------------------------|:--------------|
+| HITCON 2016   | [heartattack](https://github.com/aidielse/pwning/tree/master/Medium-Hard/heartattack)                             | UNSOLVED      |
+| DEFCON 2016   | [glados](https://github.com/aidielse/pwning/tree/master/Medium-Hard/glados)                                       | UNSOLVED      |
+| BKP 2016      | [spacerex](https://github.com/aidielse/pwning/tree/master/Medium-Hard/spacerex)                                   | UNSOLVED      |
+| 32C3 2015     | [bingo](https://github.com/aidielse/pwning/tree/master/Medium-Hard/bingo)                                         | UNSOLVED      |
+| 32C3 2015     | [sandbox](https://github.com/aidielse/pwning/tree/master/Medium-Hard/sandbox)                                     | UNSOLVED      |
+| HITCON 2015   | [blinkroot](https://github.com/aidielse/pwning/tree/master/Medium-Hard/blinkroot)                                 | UNSOLVED      |
+| DEFCON 2015   | [tensixtyseven](https://github.com/aidielse/pwning/tree/master/Medium-Hard/tensixtyseven)                         | UNSOLVED      |
+| DEFCON 2015   | [thing2](https://github.com/aidielse/pwning/tree/master/Medium-Hard/thing2)                                       | UNSOLVED      |
+| DEFCON 2015   | [hackercalc](https://github.com/aidielse/pwning/tree/master/Medium-Hard/hackercalc)                               | UNSOLVED      |
+| CodeGate 2015 | [olive-and-mushroom-pizza](https://github.com/aidielse/pwning/tree/master/Medium-Hard/olive-and-mushroom-pizza)   | UNSOLVED      |
+| CodeGate 2015 | [rodent](https://github.com/aidielse/pwning/tree/master/Medium-Hard/rodent)                                       | UNSOLVED      |
+| GITS 2015     | [boxxy](https://github.com/aidielse/pwning/tree/master/Medium-Hard/boxxy)                                         | UNSOLVED      |
+| 31C3 2014     | [nokia-1337](https://github.com/aidielse/pwning/tree/master/Medium-Hard/nokia-1337)                               | UNSOLVED      |
+| 31C3 2014     | [booking](https://github.com/aidielse/pwning/tree/master/Medium-Hard/booking)                                     | UNSOLVED      |
+| 9447 2014     | [classy](https://github.com/aidielse/pwning/tree/master/Medium-Hard/classy)                                       | UNSOLVED      |
+| pwnable.kr    | softmmu                                                                                                           | __SOLVED__    |
+| DEFCON 2014   | [justify](https://github.com/aidielse/pwning/tree/master/Medium-Hard/justify)                                     | UNSOLVED      |
+| DEFCON 2014   | [turdedo](https://github.com/aidielse/pwning/tree/master/Medium-Hard/turdedo)                                     | UNSOLVED      |
+| CodeGate 2014 | [minibomb](https://github.com/aidielse/pwning/tree/master/Medium-Hard/minibomb)                                   | UNSOLVED      |
+| CodeGate 2014 | [dodosandbox](https://github.com/aidielse/pwning/tree/master/Medium-Hard/dodosandbox)                             | UNSOLVED      |
+| CodeGate 2014 | [koreanrestaurant](https://github.com/aidielse/pwning/tree/master/Medium-Hard/koreanrestaurant)                   | UNSOLVED      |
+| Olympic 2014  | [zpwn](https://github.com/aidielse/pwning/tree/master/Medium-Hard/zpwn)                                           | UNSOLVED      |
 
 ## Difficulty: Hard
  
