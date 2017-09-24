@@ -8,7 +8,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 It is highly recommended that you work your way through the following material before you tackle the gauntlet.
 
-1. [Modern Binary Exploitation](https://github.com/RPISEC/MBE) [MBE Website](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+1. [Modern Binary Exploitation](https://github.com/RPISEC/MBE), [MBE Website](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 2. [Malware Analysis](https://github.com/RPISEC/Malware)
 3. [HITCON-Training](https://github.com/scwuaptx/HITCON-Training)
 
