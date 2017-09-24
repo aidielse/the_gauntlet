@@ -6,7 +6,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 
 ## Recommended Training
 
-It is highly recommended that you work your way through the following material before you tackle the gauntlet.
+It is highly recommended that you work your way through the following material (in order) before you tackle the gauntlet.
 
 1. [Modern Binary Exploitation](https://github.com/RPISEC/MBE), [website_link_here](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 2. [Malware Analysis](https://github.com/RPISEC/Malware)
