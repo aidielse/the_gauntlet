@@ -9,7 +9,7 @@
 
 * [TWMMA CTF 2016] Pwn greeting
 * [DEFCON CTF 2016] xkcd - Baby's First
-* {__SOLVED__}[DEFCON CTF 2015] r0pbaby - Baby's First 1
+* __\[SOLVED\]__[DEFCON CTF 2015] r0pbaby - Baby's First 1
 * [DEFCON CTF 2015] babyecho - Baby's First 1
 * [CSAW CTF 2014] Exploitation400 - greenhornd
 * [CSAW CTF 2013] Exploitation2 - 200 Points
@@ -28,7 +28,7 @@
  
 # Easy
  
-* \{__SOLVED__\}[HITCON CTF 2016] Pwn 200 ShellingFolder
+* __\[SOLVED\]__[HITCON CTF 2016] Pwn 200 ShellingFolder
 * [TWMMA CTF 2016] Pwn Interpreter
 * [DEFCON CTF 2016] banker - Pwnable
 * [DEFCON CTF 2016] heapfun4u - Baby's First
@@ -42,12 +42,12 @@
 * [DEFCON CTF 2015] wibbly wobbly timey wimey - Pwnable 2
 * [31c3 CTF 2014] pwn10 - cfy
 * [ED-CTF] my\_sandbox
-* \{__SOLVED__\}[DEFCON CTF 2014] Baby's First: 1 - heap
+* __\[SOLVED\]__[DEFCON CTF 2014] Baby's First: 1 - heap
 * [PlaidCTF 2014] ezhp - Pwnables200
 * [PlaidCTF 2014] sass - Pwnables200
 * [CodeGate-2014] Angry Doraemon pwn250
 * [SIGINT CTF 2013] pwning 100 - baremetal
-* {SOLVED}[PlaidCTF 2013] Pwn ropasaurusrex - 200
+* __\[SOLVED\]__[[PlaidCTF 2013] Pwn ropasaurusrex - 200
 * [ebCTF 2013] pwn300
 * [UFOCTF 2013] Pwn100 - ufobay
 * [CodeGate 2013] Vuln400
@@ -61,17 +61,17 @@
  
 # Medium-Easy
  
-* \{__SOLVED__\}[HITCON CTF 2016] Pwn 300 Babyheap
+* __\[SOLVED\]__[[HITCON CTF 2016] Pwn 300 Babyheap
 * [TWMMA CTF 2016] Pwn diary
 * [TWMMA CTF 2016] Pwn shadow
-* \{__SOLVED__\}[DEFCON CTF 2016] pillpusher - Pwnable
+* __\[SOLVED\]__[[DEFCON CTF 2016] pillpusher - Pwnable
 * [DEFCON CTF 2016] crunchtime - There I Fixed It
 * [DEFCON CTF 2016] int3rupt - There I Fixed It
 * [MMA CTF 1st 2015] spell
 * [BkP CTF 2015] JFK/Umass pwn300
 * [31c3 CTF 2014] pwn30 - mynx
 * [31c3 CTF 2014] pwn40 - maze
-* \{__SOLVED__\}[Pwnable.kr] unexploitable
+* __\[SOLVED\]__[[Pwnable.kr] unexploitable
 * [hack.lu2014] #07 Holy Moses - Exploiting300
 * [hack.lu2014] #14 The Union - Exploiting200
 * [PlaidCTF 2014] kappa - Pwnables275
@@ -88,10 +88,10 @@
  
 # Medium
  
-* {SOLVED}[HITCON CTF 2016] Pwn 100 Secret Holder
+* __\[SOLVED\]__[[HITCON CTF 2016] Pwn 100 Secret Holder
 * [HITCON CTF 2016] Pwn 300 Sleepy Holder
 * [DEFCON CTF 2016] kiss - Pwnable
-* {SOLVED}[BkP CTF 2016] #1 Cookbook - pwn6
+* __\[SOLVED\]__[[BkP CTF 2016] Cookbook
 * [BkP CTF 2016] #5 segsh - pwn6
 * [32c3 CTF 2015] pwn400 - ranger
 * [HITCON CTF 2015] Pwn 300 - readable
@@ -105,8 +105,8 @@
 * [Gits CTF 2015] Teaser Round #1 - Citadel
 * [31c3 CTF 2014] pwn20 - sarge
 * [31c3 CTF 2014] pwn30 - pong
-* {SOLVED}[Pwnable.kr] tiny
-* {SOLVED}[Pwnable.kr] dos4fun
+* __\[SOLVED\]__[[Pwnable.kr] tiny
+* __\[SOLVED\]__[[Pwnable.kr] dos4fun
 * [BkP CTF 2014] Snapstagram(TM) pwn350
 * [PlaidCTF 2014] jackshit - Pwnables200
 * [PlaidCTF 2014] harry\_potter - Pwnables300
@@ -156,7 +156,7 @@
 * [ED-CTF] local\_only\_32
 * [ED-CTF] Heap is a tomodachi of mine
 * [ED-CTF] Under Debugging
-* {SOLVED}[Pwnable.kr] [Hacker's Secret] softmmu
+* __\[SOLVED\]__[[Pwnable.kr] softmmu
 * [DEFCON CTF 2014 Final] justify
 * [SECUINSIDE CTF 2014 Final] pwn300 - notes
 * [SECUINSIDE CTF 2014 Final] pwn300 - numbers
@@ -193,7 +193,7 @@
 * [hack.lu2014] #15 Mario - Exploiting500
 * [HITCON CTF 2014] Pwnables 550 - stkof
 * [DEFCON CTF 2014 Final] wdub2
-* {SOLVED}[Pwnable.kr] towelroot
+* __\[SOLVED\]__[[Pwnable.kr] towelroot
 * [DEFCON CTF 2014] Lightning: 5 - dosfun4u
 * [CodeGate-2014] membership pwn800
 * [Olympic CTF Sochi 2014] 20Lines
