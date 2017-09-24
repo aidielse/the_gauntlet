@@ -1,4 +1,6 @@
-[Original list](https://pastebin.com/uyifxgPu) 
+This is an organized list of cream-of-the-crop pwning challenges that have come out in ctf's over the past few years.
+
+I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every binary that I could.
 
 # Baby
 
