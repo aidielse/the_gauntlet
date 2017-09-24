@@ -32,7 +32,7 @@ Here are some resources to help you out as you go through the gauntlet.
 
 | CTF                   | Challenge                                                                                                 | Solved?       |
 |:----------------------|:----------------------------------------------------------------------------------------------------------|:--------------|
-| CSAW 2016             | [zone](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/zone)                   | __SOLVED__    |
+| CSAW 2017             | [zone](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/zone)                   | __SOLVED__    |
 | DEFCON 2016           | [xkcd](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/xkcd)                         | UNSOLVED      |
 | TOKYO WESTERNS 2016   | [greeting](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/greeting)                 | UNSOLVED      |
 | DEFCON 2015           | [babyecho](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/babyecho)                 | UNSOLVED      |
