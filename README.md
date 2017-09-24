@@ -4,18 +4,20 @@ This is an organized list of cream-of-the-crop pwning challenges that have come 
 
 I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every binary that I could.
 
-## Baby
+## Difficulty: Baby
 
-* \[TW CTF 2016\] [greeting](https://github.com/aidielse/pwning/tree/master/Baby/greeting)
-* \[DEFCON CTF 2016\] [xkcd](https://github.com/aidielse/pwning/tree/master/Baby/xkcd)
-* __\[SOLVED\]__\[DEFCON CTF 2015\] [r0pbaby](https://github.com/aidielse/pwning/tree/master/Baby/r0pbaby)
-* \[DEFCON CTF 2015\] [babyecho](https://github.com/aidielse/pwning/tree/master/Baby/babyecho)
-* \[CSAW CTF 2014\] [greenhornd](https://github.com/aidielse/pwning/tree/master/Baby/greenhornd)
-* \[CSAW CTF 2013\] [exploit2](https://github.com/aidielse/pwning/tree/master/Baby/exploit2)
-* \[CSAW CTF 2013\] [csawdiary](https://github.com/aidielse/pwning/tree/master/Baby/csawdiary)
-* \[CSAW CTF 2013\] [miteegashun](https://github.com/aidielse/pwning/tree/master/Baby/miteegashun)
+| CTF                 | Challenge    | Solved? |
+|:-------------------:|:------------:|:-------:|
+| TOKYO WESTERNS 2016 | [greeting](https://github.com/aidielse/pwning/tree/master/Baby/greeting) | UNSOLVED |
+| DEFCON QUALS 2016   | [xkcd](https://github.com/aidielse/pwning/tree/master/Baby/xkcd) | UNSOLVED |
+| DEFCON QUALS 2015   | [r0pbaby](https://github.com/aidielse/pwning/tree/master/Baby/r0pbaby) | __SOLVED__ |
+| DEFCON QUALS 2015   | [babyecho](https://github.com/aidielse/pwning/tree/master/Baby/babyecho) | UNSOLVED |
+| CSAW 2014           | [greenhornd](https://github.com/aidielse/pwning/tree/master/Baby/greenhornd) | UNSOLVED |
+| CSAW 2013           | [exploit2](https://github.com/aidielse/pwning/tree/master/Baby/exploit2) | UNSOLVED |
+| CSAW 2013           | [csawdiary](https://github.com/aidielse/pwning/tree/master/Baby/csawdiary) | UNSOLVED |
+| CSAW 2013           | [miteegashun](https://github.com/aidielse/pwning/tree/master/Baby/miteegashun) | UNSOLVED |
  
-## Easy
+## Difficulty: Easy
  
 * \[HITCON CTF 2016\] [shellingfolder](https://github.com/aidielse/pwning/tree/master/Easy/shellingfolder)
 * \[TWMMA CTF 2016\] [interpreter](https://github.com/aidielse/pwning/tree/master/Easy/interpreter)
@@ -35,7 +37,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 * \[PlaidCTF 2014\] [sass](https://github.com/aidielse/pwning/tree/master/Easy/sass)
 * \[CodeGate-2014\] [angry doraemon](https://github.com/aidielse/pwning/tree/master/Easy/angry_doraemon)
  
-## Medium-Easy
+## Difficulty: Medium-Easy
  
 * __\[SOLVED\]__\[HITCON CTF 2016] [babyheap](https://github.com/aidielse/pwning/tree/master/Medium-Easy/babyheap)
 * \[TWMMA CTF 2016\] [diary](https://github.com/aidielse/pwning/tree/master/Medium-Easy/diary)
@@ -53,7 +55,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 * \[Gits CTF 2014\] [ti-1337](https://github.com/aidielse/pwning/tree/master/Medium-Easy/ti-1337)
 * \[Gits CTF 2014\] [fuzzy](https://github.com/aidielse/pwning/tree/master/Medium-Easy/fuzzy)
 
-## Medium
+## Difficulty: Medium
  
 * __\[SOLVED\]__\[HITCON CTF 2016\] [secretholder](https://github.com/aidielse/pwning/tree/master/Medium/secretholder)
 * \[HITCON CTF 2016\] [sleepyholder](https://github.com/aidielse/pwning/tree/master/Medium/sleepyholder)
@@ -77,7 +79,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 * \[PlaidCTF 2014\] [harry\_potter](https://github.com/aidielse/pwning/tree/master/Medium/harry_potter)
 * \[CodeGate-2014\] [4stone](https://github.com/aidielse/pwning/tree/master/Medium/4stone)
  
-## Medium-Hard
+## Difficulty: Medium-Hard
  
 * \[HITCON CTF 2016\] [heartattack](https://github.com/aidielse/pwning/tree/master/Medium-Hard/heartattack)
 * \[DEFCON CTF 2016\] [glados](https://github.com/aidielse/pwning/tree/master/Medium-Hard/glados)
@@ -102,7 +104,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 * \[CodeGate-2014\] [koreanrestaurant](https://github.com/aidielse/pwning/tree/master/Medium-Hard/koreanrestaurant)
 * \[Olympic CTF Sochi 2014\] [zpwn](https://github.com/aidielse/pwning/tree/master/Medium-Hard/zpwn)
 
-## Hard
+## Difficulty: Hard
  
 * \[0CTF 2017\] [knote](https://github.com/aidielse/pwning/tree/master/Hard/knote)
 * \[HITCON CTF 2016\] [house\_of\_orange](https://github.com/aidielse/pwning/tree/master/Hard/house_of_orange)
