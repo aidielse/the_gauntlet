@@ -17,7 +17,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | CSAW 2013             | [csawdiary](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/csawdiary)       | UNSOLVED      |
 | CSAW 2013             | [miteegashun](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/miteegashun)   | UNSOLVED      |
  
-## Difficulty: easy
+## Difficulty: Easy
 
 | CTF                   | Challenge                                                                                                     | Solved?       |
 |:----------------------|:--------------------------------------------------------------------------------------------------------------|:--------------|
