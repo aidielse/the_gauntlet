@@ -4,7 +4,7 @@ This is an organized list of cream-of-the-crop pwning challenges that have come 
 
 I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every binary that I could.
 
-## Difficulty: Baby
+## Difficulty: "Gotta Start Somewhere"
 
 | CTF                   | Challenge                                                                         | Solved?       |
 |:----------------------|:----------------------------------------------------------------------------------|:--------------|
@@ -39,7 +39,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | PlaidCTF 2014         | [sass](https://github.com/aidielse/pwning/tree/master/Easy/sass)                                              | UNSOLVED      |
 | CodeGate 2014         | [angry\_doraemon](https://github.com/aidielse/pwning/tree/master/Easy/angry_doraemon)                         | UNSOLVED      |
  
-## Difficulty: Medium-Easy
+## Difficulty: Average
 
 | CTF                   | Challenge                                                                             | Solved?       |
 |:----------------------|---------------------------------------------------------------------------------------|:--------------|
@@ -59,7 +59,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | GITS 2014             | [ti-1337](https://github.com/aidielse/pwning/tree/master/Medium-Easy/ti-1337)         | UNSOLVED      |
 | GITS 2014             | [fuzzy](https://github.com/aidielse/pwning/tree/master/Medium-Easy/fuzzy)             | UNSOLVED      |
 
-## Difficulty: Medium
+## Difficulty: Respectable
 
 | CTF           | Challenge                                                                             | Solved?       |
 |:--------------|:--------------------------------------------------------------------------------------|:--------------|
@@ -85,7 +85,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | PlaidCTF 2014 | [harry\_potter](https://github.com/aidielse/pwning/tree/master/Medium/harry_potter)   | UNSOLVED      |
 | CodeGate 2014 | [4stone](https://github.com/aidielse/pwning/tree/master/Medium/4stone)                | UNSOLVED      |
  
-## Difficulty: Medium-Hard
+## Difficulty: Stressful
 
 | CTF           | Challenge                                                                                                         | Solved?       |
 |:--------------|:------------------------------------------------------------------------------------------------------------------|:--------------|
@@ -112,7 +112,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | CodeGate 2014 | [koreanrestaurant](https://github.com/aidielse/pwning/tree/master/Medium-Hard/koreanrestaurant)                   | UNSOLVED      |
 | Olympic 2014  | [zpwn](https://github.com/aidielse/pwning/tree/master/Medium-Hard/zpwn)                                           | UNSOLVED      |
 
-## Difficulty: Hard
+## Difficulty: Soul Crushing
 
 | CTF           | Challenge                                                                                 | Solved?       |
 |:--------------|:------------------------------------------------------------------------------------------|:--------------|
