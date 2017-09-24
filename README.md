@@ -60,6 +60,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | GITS 2014             | [fuzzy](https://github.com/aidielse/pwning/tree/master/Medium-Easy/fuzzy)             | UNSOLVED      |
 
 ## Difficulty: Medium
+
 | CTF           | Challenge                                                                             | Solved?       |
 |:--------------|:--------------------------------------------------------------------------------------|:--------------|
 | HITCON 2016   | [secretholder](https://github.com/aidielse/pwning/tree/master/Medium/secretholder)    | __SOLVED__    |
@@ -85,6 +86,7 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | CodeGate 2014 | [4stone](https://github.com/aidielse/pwning/tree/master/Medium/4stone)                | UNSOLVED      |
  
 ## Difficulty: Medium-Hard
+
 | CTF           | Challenge                                                                                                         | Solved?       |
 |:--------------|:------------------------------------------------------------------------------------------------------------------|:--------------|
 | HITCON 2016   | [heartattack](https://github.com/aidielse/pwning/tree/master/Medium-Hard/heartattack)                             | UNSOLVED      |
@@ -111,22 +113,24 @@ I went through this [list](https://pastebin.com/uyifxgPu) and tracked down every
 | Olympic 2014  | [zpwn](https://github.com/aidielse/pwning/tree/master/Medium-Hard/zpwn)                                           | UNSOLVED      |
 
 ## Difficulty: Hard
- 
-* \[0CTF 2017\] [knote](https://github.com/aidielse/pwning/tree/master/Hard/knote)
-* \[HITCON CTF 2016\] [house\_of\_orange](https://github.com/aidielse/pwning/tree/master/Hard/house_of_orange)
-* \[PlaidCTF 2016\] [awkward](https://github.com/aidielse/pwning/tree/master/Hard/awkward)
-* \[HITCON CTF 2015\] [deathweed](https://github.com/aidielse/pwning/tree/master/Hard/deathweed)
-* \[PlaidCTF 2015\] [plaiddb](https://github.com/aidielse/pwning/tree/master/Hard/plaiddb)
-* \[PlaidCTF 2015\] [tp](https://github.com/aidielse/pwning/tree/master/Hard/tp)
-* \[CodeGate 2015\] [weff](https://github.com/aidielse/pwning/tree/master/Hard/weff)
-* \[Gits CTF 2015\] [gitschat](https://github.com/aidielse/pwning/tree/master/Hard/gitschat)
-* \[31c3 CTF 2014\] [cfy2](https://github.com/aidielse/pwning/tree/master/Hard/cfy2)
-* \[31c3 CTF 2014\] [saas](https://github.com/aidielse/pwning/tree/master/Hard/saas)
-* \[hack.lu2014\] [oreo](https://github.com/aidielse/pwning/tree/master/Hard/oreo)
-* \[hack.lu2014\] [breakout](https://github.com/aidielse/pwning/tree/master/Hard/breakout)
-* \[hack.lu2014\] [mario](https://github.com/aidielse/pwning/tree/master/Hard/mario)
-* \[HITCON CTF 2014\] [stkof](https://github.com/aidielse/pwning/tree/master/Hard/stkof)
-* __\[SOLVED\]__\[Pwnable.kr\] towelroot
-* \[DEFCON CTF 2014\] [dosfun4u](https://github.com/aidielse/pwning/tree/master/Hard/dosfun4u)
-* \[CodeGate-2014\] [membership](https://github.com/aidielse/pwning/tree/master/Hard/membership)
-* \[Gits CTF 2014\] [byte\_sexual](https://github.com/aidielse/pwning/tree/master/Hard/byte_sexual)
+
+| CTF           | Challenge                                                                                 | Solved?       |
+|:--------------|:------------------------------------------------------------------------------------------|:--------------|
+| 0CTF 2017     | [knote](https://github.com/aidielse/pwning/tree/master/Hard/knote)                        | UNSOLVED      |
+| HITCON 2016   | [house\_of\_orange](https://github.com/aidielse/pwning/tree/master/Hard/house_of_orange)  | UNSOLVED      |
+| PlaidCTF 2016 | [awkward](https://github.com/aidielse/pwning/tree/master/Hard/awkward)                    | UNSOLVED      |
+| HITCON 2015   | [deathweed](https://github.com/aidielse/pwning/tree/master/Hard/deathweed)                | UNSOLVED      |
+| PlaidCTF 2015 | [plaiddb](https://github.com/aidielse/pwning/tree/master/Hard/plaiddb)                    | UNSOLVED      |
+| PlaidCTF 2015 | [tp](https://github.com/aidielse/pwning/tree/master/Hard/tp)                              | UNSOLVED      |
+| CodeGate 2015 | [weff](https://github.com/aidielse/pwning/tree/master/Hard/weff)                          | UNSOLVED      |
+| GITS 2015     | [gitschat](https://github.com/aidielse/pwning/tree/master/Hard/gitschat)                  | UNSOLVED      |
+| 31C3 2014     | [cfy2](https://github.com/aidielse/pwning/tree/master/Hard/cfy2)                          | UNSOLVED      |
+| 31C3 2014     | [saas](https://github.com/aidielse/pwning/tree/master/Hard/saas)                          | UNSOLVED      |
+| hack.lu 2014  | [oreo](https://github.com/aidielse/pwning/tree/master/Hard/oreo)                          | UNSOLVED      |
+| hack.lu 2014  | [breakout](https://github.com/aidielse/pwning/tree/master/Hard/breakout)                  | UNSOLVED      |
+| hack.lu 2014  | [mario](https://github.com/aidielse/pwning/tree/master/Hard/mario)                        | UNSOLVED      |
+| HITCON 2014   | [stkof](https://github.com/aidielse/pwning/tree/master/Hard/stkof)                        | UNSOLVED      |
+| pwnable.kr    | towelroot                                                                                 | __SOLVED__    |
+| DEFCON 2014   | [dosfun4u](https://github.com/aidielse/pwning/tree/master/Hard/dosfun4u)                  | UNSOLVED      |
+| CodeGate 2014 | [membership](https://github.com/aidielse/pwning/tree/master/Hard/membership)              | UNSOLVED      |
+| GITS 2014     | [byte\_sexual](https://github.com/aidielse/pwning/tree/master/Hard/byte_sexual)           | UNSOLVED      |
