@@ -1,4 +1,4 @@
-[Original list] (https://pastebin.com/uyifxgPu) 
+[Original list](https://pastebin.com/uyifxgPu) 
 
 # Baby
 
