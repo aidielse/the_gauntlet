@@ -41,7 +41,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | CSAW 2013             | [csawdiary](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/csawdiary)               | UNSOLVED      |
 | CSAW 2013             | [exploit2](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/exploit2)                 | UNSOLVED      |
 | CSAW 2013             | [miteegashun](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/miteegashun)           | UNSOLVED      |
-| PlaidCTF 2013         | [ropasaurusrex](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex) | UNSOLVED      | 
+| PlaidCTF 2013         | [ropasaurusrex](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex) | __SOLVED__    | 
 
 ### Difficulty: Easy
 
