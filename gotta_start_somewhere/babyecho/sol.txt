@@ -1,0 +1,10 @@
+sign another format str chall....
+
+looks for "%n" and replaces it with "_n"
+
+you can just use "%01$n" to bypass this check:
+
+"%" - start fmt str
+"01" - apply fmt str to this num argument
+"$" - begin fmt str to apply
+"n" - write
