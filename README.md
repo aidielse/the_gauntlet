@@ -48,7 +48,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | CTF                   | Challenge                                                                                                     | Solved?       |
 |:----------------------|:--------------------------------------------------------------------------------------------------------------|:--------------|
 | BKP 2016              | [complexcalc](https://github.com/aidielse/pwning/tree/master/easy/complexcalc)                                | UNSOLVED      |
-| BKP 2016              | [simplecalc](https://github.com/aidielse/pwning/tree/master/easy/simplecalc)                                  | UNSOLVED      |
+| BKP 2016              | [simplecalc](https://github.com/aidielse/pwning/tree/master/easy/simplecalc)                                  | __SOLVED__    |
 | CodeGate 2016         | [flOppy](https://github.com/aidielse/pwning/tree/master/easy/fl0ppy)                                          | UNSOLVED      |
 | CodeGate 2016         | [oldschool](https://github.com/aidielse/pwning/tree/master/easy/oldschool)                                    | UNSOLVED      |
 | CodeGate 2016         | [serial](https://github.com/aidielse/pwning/tree/master/easy/serial)                                          | UNSOLVED      |
