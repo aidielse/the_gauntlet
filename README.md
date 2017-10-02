@@ -54,7 +54,6 @@ Here are some resources to help you out as you go through the gauntlet.
 | DEFCON 2016           | [feedme](https://github.com/aidielse/pwning/tree/master/easy/feedme)                                          | UNSOLVED      |
 | DEFCON 2016           | [heapfun4u](https://github.com/aidielse/pwning/tree/master/easy/heapfun4u)                                    | UNSOLVED      |
 | DEFCON 2016           | [pillpusher](https://github.com/aidielse/pwning/tree/master/average/pillpusher)                               | __SOLVED__    |
-| HITCON  2016          | [shellingfolder](https://github.com/aidielse/pwning/tree/master/easy/shellingfolder)                          | UNSOLVED      |
 | TOKYO WESTERNS 2016   | [interpreter](https://github.com/aidielse/pwning/tree/master/easy/interpreter)                                | UNSOLVED      |
 | 32C3 2015             | [readme](https://github.com/aidielse/pwning/tree/master/easy/readme)                                          | UNSOLVED      |
 | DEFCON 2015           | [wibbly\_wobbly\_timey\_wimey](https://github.com/aidielse/pwning/tree/master/easy/wibbly_wobbly_timey_wimey) | UNSOLVED      |
@@ -71,6 +70,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | CSAW 2017             | [zone](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/zone)   | __SOLVED__    |
 | DEFCON 2016           | [crunchtime](https://github.com/aidielse/pwning/tree/master/average/crunchtime)           | UNSOLVED      |
 | HITCON 2016           | [babyheap](https://github.com/aidielse/pwning/tree/master/average/babyheap)               | __SOLVED__    |
+| HITCON  2016          | [shellingfolder](https://github.com/aidielse/pwning/tree/master/easy/shellingfolder)      | UNSOLVED      |
 | TOKYO WESTERNS 2016   | [diary](https://github.com/aidielse/pwning/tree/master/average/diary)                     | UNSOLVED      |
 | TOKYO WESTERNS 2016   | [shadow](https://github.com/aidielse/pwning/tree/master/average/shadow)                   | UNSOLVED      |
 | BKP 2015              | [jfk-umass](https://github.com/aidielse/pwning/tree/master/average/jfk-umass)             | UNSOLVED      |
