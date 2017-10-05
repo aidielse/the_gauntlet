@@ -49,7 +49,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | BKP 2016              | [complexcalc](https://github.com/aidielse/pwning/tree/master/easy/complexcalc)                                | __SOLVED__    |
 | BKP 2016              | [simplecalc](https://github.com/aidielse/pwning/tree/master/easy/simplecalc)                                  | __SOLVED__    |
 | CodeGate 2016         | [flOppy](https://github.com/aidielse/pwning/tree/master/easy/fl0ppy)                                          | __SOLVED__    |
-| CodeGate 2016         | [serial](https://github.com/aidielse/pwning/tree/master/easy/serial)                                          | UNSOLVED      |
+| CodeGate 2016         | [serial](https://github.com/aidielse/pwning/tree/master/easy/serial)                                          | __SOLVED__    |
 | DEFCON 2016           | [banker](https://github.com/aidielse/pwning/tree/master/easy/banker)                                          | UNSOLVED      |
 | DEFCON 2016           | [feedme](https://github.com/aidielse/pwning/tree/master/easy/feedme)                                          | UNSOLVED      |
 | DEFCON 2016           | [heapfun4u](https://github.com/aidielse/pwning/tree/master/easy/heapfun4u)                                    | UNSOLVED      |
