@@ -52,7 +52,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | CodeGate 2016         | [serial](https://github.com/aidielse/pwning/tree/master/easy/serial)                                          | __SOLVED__    |
 | DEFCON 2016           | [banker](https://github.com/aidielse/pwning/tree/master/easy/banker)                                          | UNSOLVED      |
 | DEFCON 2016           | [feedme](https://github.com/aidielse/pwning/tree/master/easy/feedme)                                          | __SOLVED__    |
-| DEFCON 2016           | [heapfun4u](https://github.com/aidielse/pwning/tree/master/easy/heapfun4u)                                    | UNSOLVED      |
+| DEFCON 2016           | [heapfun4u](https://github.com/aidielse/pwning/tree/master/easy/heapfun4u)                                    | __SOLVED__    |
 | DEFCON 2016           | [pillpusher](https://github.com/aidielse/pwning/tree/master/average/pillpusher)                               | __SOLVED__    |
 | TOKYO WESTERNS 2016   | [interpreter](https://github.com/aidielse/pwning/tree/master/easy/interpreter)                                | UNSOLVED      |
 | 32C3 2015             | [readme](https://github.com/aidielse/pwning/tree/master/easy/readme)                                          | UNSOLVED      |
