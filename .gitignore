@@ -1,3 +1,6 @@
 .DS_Store
 .gdb_history
-
+*.idb
+*.i64
+*.swp
+core
