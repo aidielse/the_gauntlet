@@ -58,7 +58,6 @@ Here are some resources to help you out as you go through the gauntlet.
 | 32C3 2015             | [readme](https://github.com/aidielse/pwning/tree/master/easy/readme)                                          | UNSOLVED      |
 | DEFCON 2015           | [wibbly\_wobbly\_timey\_wimey](https://github.com/aidielse/pwning/tree/master/easy/wibbly_wobbly_timey_wimey) | UNSOLVED      |
 | 31C3 2014             | [cfy](https://github.com/aidielse/pwning/tree/master/easy/cfy)                                                | UNSOLVED      |
-| CodeGate 2014         | [angry\_doraemon](https://github.com/aidielse/pwning/tree/master/easy/angry_doraemon)                         | UNSOLVED      |
 | DEFCON 2014           | [babysfirstheap](https://github.com/aidielse/pwning/tree/master/easy/babysfirstheap)                          | __SOLVED__    |
 | PlaidCTF 2014         | [ezhp](https://github.com/aidielse/pwning/tree/master/easy/ezhp)                                              | UNSOLVED      |
 | PlaidCTF 2014         | [sass](https://github.com/aidielse/pwning/tree/master/easy/sass)                                              | UNSOLVED      |
