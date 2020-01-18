@@ -56,7 +56,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | DEFCON 2016           | [pillpusher](https://github.com/aidielse/pwning/tree/master/average/pillpusher)                               | __SOLVED__    |
 | TOKYO WESTERNS 2016   | [interpreter](https://github.com/aidielse/pwning/tree/master/easy/interpreter)                                | UNSOLVED      |
 | 32C3 2015             | [readme](https://github.com/aidielse/pwning/tree/master/easy/readme)                                          | UNSOLVED      |
-| DEFCON 2015           | [wibbly\_wobbly\_timey\_wimey](https://github.com/aidielse/pwning/tree/master/easy/wibbly_wobbly_timey_wimey) | UNSOLVED      |
+| DEFCON 2015           | [wibbly\_wobbly\_timey\_wimey](https://github.com/aidielse/pwning/tree/master/easy/wibbly_wobbly_timey_wimey) | __SOLVED__    |
 | 31C3 2014             | [cfy](https://github.com/aidielse/pwning/tree/master/easy/cfy)                                                | UNSOLVED      |
 | DEFCON 2014           | [babysfirstheap](https://github.com/aidielse/pwning/tree/master/easy/babysfirstheap)                          | __SOLVED__    |
 | PlaidCTF 2014         | [ezhp](https://github.com/aidielse/pwning/tree/master/easy/ezhp)                                              | UNSOLVED      |
