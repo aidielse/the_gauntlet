@@ -68,14 +68,6 @@ Here are some resources to help you out as you go through the gauntlet.
 | TOKYO WESTERNS 2016   | [shadow](https://github.com/aidielse/pwning/tree/master/average/shadow)                   | UNSOLVED      |
 | BKP 2015              | [jfk-umass](https://github.com/aidielse/pwning/tree/master/average/jfk-umass)             | UNSOLVED      |
 | CodeGate 2015         | [bookstore](https://github.com/aidielse/the_gauntlet/tree/master/average/bookstore)       | __SOLVED__    |
-| MMA 2015              | [spell](https://github.com/aidielse/pwning/tree/master/average/spell)                     | UNSOLVED      |
-| 31C3 2014             | [mynx](https://github.com/aidielse/pwning/tree/master/average/mynx)                       | UNSOLVED      |
-| 31C3 2014             | [maze](https://github.com/aidielse/pwning/tree/master/average/maze)                       | UNSOLVED      |
-| GITS 2014             | [fuzzy](https://github.com/aidielse/pwning/tree/master/average/fuzzy)                     | UNSOLVED      |
-| GITS 2014             | [ti-1337](https://github.com/aidielse/pwning/tree/master/average/ti-1337)                 | UNSOLVED      |
-| hack.lu 2014          | [holy-moses](https://github.com/aidielse/pwning/tree/master/average/holy-moses)           | UNSOLVED      |
-| hack.lu 2014          | [the-union](https://github.com/aidielse/pwning/tree/master/average/the-union)             | UNSOLVED      |
-| PlaidCTF 2014         | [kappa](https://github.com/aidielse/pwning/tree/master/average/kappa)                     | UNSOLVED      |
 | pwnable.kr            | unexploitable                                                                             | __SOLVED__    |
 
 ### Difficulty: Respectable
