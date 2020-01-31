@@ -87,13 +87,6 @@ Here are some resources to help you out as you go through the gauntlet.
 | DEFCON 2015   | [int3rupted](https://github.com/aidielse/pwning/tree/master/respectable/int3rupted)       | UNSOLVED      |
 | GITS CTF 2015 | [citadel](https://github.com/aidielse/pwning/tree/master/respectable/citadel)             | UNSOLVED      |
 | HITCON 2015   | [readable](https://github.com/aidielse/pwning/tree/master/respectable/readable)           | UNSOLVED      |
-| MMA 2015      | [d3flate](https://github.com/aidielse/pwning/tree/master/respectable/d3flate)             | UNSOLVED      |
-| 31C3 CTF 2014 | [sarge](https://github.com/aidielse/pwning/tree/master/respectable/sarge)                 | UNSOLVED      |
-| 31C3 CTF 2014 | [pong](https://github.com/aidielse/pwning/tree/master/respectable/pong)                   | UNSOLVED      |
-| BKP CTF 2014  | [snapstagram](https://github.com/aidielse/pwning/tree/master/respectable/snapstagram)     | UNSOLVED      |
-| CodeGate 2014 | [4stone](https://github.com/aidielse/pwning/tree/master/respectable/4stone)               | UNSOLVED      |
-| PlaidCTF 2014 | [harry\_potter](https://github.com/aidielse/pwning/tree/master/respectable/harry_potter)  | UNSOLVED      |
-| PlaidCTF 2014 | [jackshit](https://github.com/aidielse/pwning/tree/master/respectable/jackshit)           | UNSOLVED      |
 | pwnable.kr    | dos4fun                                                                                   | __SOLVED__    |
 | pwnable.kr    | tiny                                                                                      | __SOLVED__    |
 
