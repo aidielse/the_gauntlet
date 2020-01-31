@@ -106,15 +106,6 @@ Here are some resources to help you out as you go through the gauntlet.
 | DEFCON 2015   | [thing2](https://github.com/aidielse/pwning/tree/master/stressful/thing2)                                         | UNSOLVED      |
 | GITS 2015     | [boxxy](https://github.com/aidielse/pwning/tree/master/stressful/boxxy)                                           | UNSOLVED      |
 | HITCON 2015   | [blinkroot](https://github.com/aidielse/pwning/tree/master/stressful/blinkroot)                                   | UNSOLVED      |
-| 31C3 2014     | [booking](https://github.com/aidielse/pwning/tree/master/stressful/booking)                                       | UNSOLVED      |
-| 31C3 2014     | [nokia-1337](https://github.com/aidielse/pwning/tree/master/stressful/nokia-1337)                                 | UNSOLVED      |
-| 9447 2014     | [classy](https://github.com/aidielse/pwning/tree/master/stressful/classy)                                         | UNSOLVED      |
-| CodeGate 2014 | [dodosandbox](https://github.com/aidielse/pwning/tree/master/stressful/dodosandbox)                               | UNSOLVED      |
-| CodeGate 2014 | [koreanrestaurant](https://github.com/aidielse/pwning/tree/master/stressful/koreanrestaurant)                     | UNSOLVED      |
-| CodeGate 2014 | [minibomb](https://github.com/aidielse/pwning/tree/master/stressful/minibomb)                                     | UNSOLVED      |
-| DEFCON 2014   | [justify](https://github.com/aidielse/pwning/tree/master/stressful/justify)                                       | UNSOLVED      |
-| DEFCON 2014   | [turdedo](https://github.com/aidielse/pwning/tree/master/stressful/turdedo)                                       | UNSOLVED      |
-| Olympic 2014  | [zpwn](https://github.com/aidielse/pwning/tree/master/stressful/zpwn)                                             | UNSOLVED      |
 | pwnable.kr    | softmmu                                                                                                           | __SOLVED__    |
 
 ### Difficulty: Soul Crushing
