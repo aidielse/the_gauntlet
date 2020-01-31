@@ -42,6 +42,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | CSAW 2013             | [miteegashun](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/miteegashun)           | __SOLVED__    |
 | PlaidCTF 2013         | [ropasaurusrex](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex) | __SOLVED__    | 
 
+
 ### Difficulty: Easy
 
 | CTF                   | Challenge                                                                                                     | Solved?       |
