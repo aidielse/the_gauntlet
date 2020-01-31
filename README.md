@@ -120,13 +120,4 @@ Here are some resources to help you out as you go through the gauntlet.
 | HITCON 2015   | [deathweed](https://github.com/aidielse/pwning/tree/master/soul_crushing/deathweed)               | UNSOLVED      |
 | PlaidCTF 2015 | [plaiddb](https://github.com/aidielse/pwning/tree/master/soul_crushing/plaiddb)                   | UNSOLVED      |
 | PlaidCTF 2015 | [tp](https://github.com/aidielse/pwning/tree/master/soul_crushing/tp)                             | UNSOLVED      |
-| 31C3 2014     | [cfy2](https://github.com/aidielse/pwning/tree/master/soul_crushing/cfy2)                         | UNSOLVED      |
-| 31C3 2014     | [saas](https://github.com/aidielse/pwning/tree/master/soul_crushing/saas)                         | UNSOLVED      |
-| CodeGate 2014 | [membership](https://github.com/aidielse/pwning/tree/master/soul_crushing/membership)             | UNSOLVED      |
-| DEFCON 2014   | [dosfun4u](https://github.com/aidielse/pwning/tree/master/soul_crushing/dosfun4u)                 | UNSOLVED      |
-| GITS 2014     | [byte\_sexual](https://github.com/aidielse/pwning/tree/master/soul_crushing/byte_sexual)          | UNSOLVED      |
-| hack.lu 2014  | [breakout](https://github.com/aidielse/pwning/tree/master/soul_crushing/breakout)                 | UNSOLVED      |
-| hack.lu 2014  | [mario](https://github.com/aidielse/pwning/tree/master/soul_crushing/mario)                       | UNSOLVED      |
-| hack.lu 2014  | [oreo](https://github.com/aidielse/pwning/tree/master/soul_crushing/oreo)                         | UNSOLVED      |
-| HITCON 2014   | [stkof](https://github.com/aidielse/pwning/tree/master/soul_crushing/stkof)                       | UNSOLVED      |
 | pwnable.kr    | towelroot                                                                                         | __SOLVED__    |
