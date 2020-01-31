@@ -49,17 +49,13 @@ Here are some resources to help you out as you go through the gauntlet.
 | BKP 2016              | [simplecalc](https://github.com/aidielse/pwning/tree/master/easy/simplecalc)                                  | __SOLVED__    |
 | CodeGate 2016         | [flOppy](https://github.com/aidielse/pwning/tree/master/easy/fl0ppy)                                          | __SOLVED__    |
 | CodeGate 2016         | [serial](https://github.com/aidielse/pwning/tree/master/easy/serial)                                          | __SOLVED__    |
-| DEFCON 2016           | [banker](https://github.com/aidielse/pwning/tree/master/easy/banker)                                          | UNSOLVED      |
 | DEFCON 2016           | [feedme](https://github.com/aidielse/pwning/tree/master/easy/feedme)                                          | __SOLVED__    |
 | DEFCON 2016           | [heapfun4u](https://github.com/aidielse/pwning/tree/master/easy/heapfun4u)                                    | __SOLVED__    |
 | DEFCON 2016           | [pillpusher](https://github.com/aidielse/pwning/tree/master/average/pillpusher)                               | __SOLVED__    |
 | TOKYO WESTERNS 2016   | [interpreter](https://github.com/aidielse/pwning/tree/master/easy/interpreter)                                | UNSOLVED      |
 | 32C3 2015             | [readme](https://github.com/aidielse/pwning/tree/master/easy/readme)                                          | UNSOLVED      |
 | DEFCON 2015           | [wibbly\_wobbly\_timey\_wimey](https://github.com/aidielse/pwning/tree/master/easy/wibbly_wobbly_timey_wimey) | __SOLVED__    |
-| 31C3 2014             | [cfy](https://github.com/aidielse/pwning/tree/master/easy/cfy)                                                | UNSOLVED      |
 | DEFCON 2014           | [babysfirstheap](https://github.com/aidielse/pwning/tree/master/easy/babysfirstheap)                          | __SOLVED__    |
-| PlaidCTF 2014         | [ezhp](https://github.com/aidielse/pwning/tree/master/easy/ezhp)                                              | UNSOLVED      |
-| PlaidCTF 2014         | [sass](https://github.com/aidielse/pwning/tree/master/easy/sass)                                              | UNSOLVED      |
 
 ### Difficulty: Average
 
