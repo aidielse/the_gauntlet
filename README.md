@@ -36,11 +36,9 @@ Here are some resources to help you out as you go through the gauntlet.
 | TOKYO WESTERNS 2016   | [greeting](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/greeting)                 | __SOLVEDISH__ |
 | DEFCON 2015           | [babyecho](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/babyecho)                 | __SOLVEDISH__ |
 | DEFCON 2015           | [r0pbaby](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/r0pbaby)                   | __SOLVED__    |
-| CSAW 2014             | [greenhornd](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/greenhornd)             | UNSOLVED      |
-| CSAW 2013             | [csawdiary](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/csawdiary)               | UNSOLVED      |
 | CSAW 2013             | [exploit2](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/exploit2)                 | __SOLVED__    |
 | CSAW 2013             | [miteegashun](https://github.com/aidielse/pwning/tree/master/gotta_start_somewhere/miteegashun)           | __SOLVED__    |
-| PlaidCTF 2013         | [ropasaurusrex](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex) | __SOLVED__    | 
+| PlaidCTF 2013         | [ropasaurusrex](https://github.com/aidielse/the_gauntlet/tree/master/gotta_start_somewhere/ropasaurusrex) | __SOLVED__    |
 
 
 ### Difficulty: Easy
@@ -62,7 +60,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | DEFCON 2014           | [babysfirstheap](https://github.com/aidielse/pwning/tree/master/easy/babysfirstheap)                          | __SOLVED__    |
 | PlaidCTF 2014         | [ezhp](https://github.com/aidielse/pwning/tree/master/easy/ezhp)                                              | UNSOLVED      |
 | PlaidCTF 2014         | [sass](https://github.com/aidielse/pwning/tree/master/easy/sass)                                              | UNSOLVED      |
- 
+
 ### Difficulty: Average
 
 | CTF                   | Challenge                                                                                 | Solved?       |
